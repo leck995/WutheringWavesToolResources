@@ -26,7 +26,7 @@ public class RoleWeightUtil {
         String fileDir="assets/data/weight/default/%s";
 
         Map<String, Resource> map = new LinkedHashMap<>();
-        File dir =new File("assets/weight/default");
+        File dir =new File("assets/data/weight/default");
         File[] jsons = dir.listFiles();
         for (File json : jsons) {
             String suffix = FileUtil.getSuffix(json);
