@@ -29,6 +29,12 @@
     "aimPath" : "assets/data/weight/default/吟霖.json",
     "md5" : "a69c100e24b317812865742452785a73"
   },
+  "守岸人" : {
+    "name" : "守岸人.json",
+    "filePath" : "assets/data/weight/default/%E5%AE%88%E5%B2%B8%E4%BA%BA.json",
+    "aimPath" : "assets/data/weight/default/守岸人.json",
+    "md5" : "e5a2856f0d1a269fd07d4faa37f47d7b"
+  },
   "安可" : {
     "name" : "安可.json",
     "filePath" : "assets/data/weight/default/%E5%AE%89%E5%8F%AF.json",

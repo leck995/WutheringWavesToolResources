@@ -23,7 +23,7 @@ public class RootResouceUtil {
         init();
     }
     public static void init() throws IOException{
-        String version = "1.0.2";
+        String version = "1.0.3";
         String aimDir="assets/data/%s";
         String fileDir="data/%s";
 
