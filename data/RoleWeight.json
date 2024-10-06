@@ -1,4 +1,10 @@
 {
+  "丹瑾" : {
+    "name" : "丹瑾.json",
+    "filePath" : "assets/data/weight/default/%E4%B8%B9%E7%91%BE.json",
+    "aimPath" : "assets/data/weight/default/丹瑾.json",
+    "md5" : "75734da133942e94477f43f617b3a993"
+  },
   "今汐" : {
     "name" : "今汐.json",
     "filePath" : "assets/data/weight/default/%E4%BB%8A%E6%B1%90.json",
@@ -41,6 +47,24 @@
     "aimPath" : "assets/data/weight/default/折枝.json",
     "md5" : "c7f472ee3f63c3d5d92ae868356d517e"
   },
+  "散华" : {
+    "name" : "散华.json",
+    "filePath" : "assets/data/weight/default/%E6%95%A3%E5%8D%8E.json",
+    "aimPath" : "assets/data/weight/default/散华.json",
+    "md5" : "1b7751ab1ee8263ede39e05d53b6d1a8"
+  },
+  "桃祈" : {
+    "name" : "桃祈.json",
+    "filePath" : "assets/data/weight/default/%E6%A1%83%E7%A5%88.json",
+    "aimPath" : "assets/data/weight/default/桃祈.json",
+    "md5" : "45f621228f5fbe4fe3bf0f050b74c961"
+  },
+  "渊武" : {
+    "name" : "渊武.json",
+    "filePath" : "assets/data/weight/default/%E6%B8%8A%E6%AD%A6.json",
+    "aimPath" : "assets/data/weight/default/渊武.json",
+    "md5" : "9681378b3c6394373d06011252b08bab"
+  },
   "漂泊者·湮灭" : {
     "name" : "漂泊者·湮灭.json",
     "filePath" : "assets/data/weight/default/%E6%BC%82%E6%B3%8A%E8%80%85%C2%B7%E6%B9%AE%E7%81%AD.json",
@@ -53,17 +77,47 @@
     "aimPath" : "assets/data/weight/default/漂泊者·衍射.json",
     "md5" : "77adf843dc9f6eb6ce7ea7340b3b8492"
   },
+  "炽霞" : {
+    "name" : "炽霞.json",
+    "filePath" : "assets/data/weight/default/%E7%82%BD%E9%9C%9E.json",
+    "aimPath" : "assets/data/weight/default/炽霞.json",
+    "md5" : "b37cc74697f9dea59cb532f269e722b4"
+  },
+  "白芷" : {
+    "name" : "白芷.json",
+    "filePath" : "assets/data/weight/default/%E7%99%BD%E8%8A%B7.json",
+    "aimPath" : "assets/data/weight/default/白芷.json",
+    "md5" : "d2833803ea53f9d63a9fd80c3117b180"
+  },
   "相里要" : {
     "name" : "相里要.json",
     "filePath" : "assets/data/weight/default/%E7%9B%B8%E9%87%8C%E8%A6%81.json",
     "aimPath" : "assets/data/weight/default/相里要.json",
     "md5" : "f23cc4e55e0a99e1994f93c9c49cc13c"
   },
+  "秋水" : {
+    "name" : "秋水.json",
+    "filePath" : "assets/data/weight/default/%E7%A7%8B%E6%B0%B4.json",
+    "aimPath" : "assets/data/weight/default/秋水.json",
+    "md5" : "9f96e8de5456bae7ae968ea5ec6cba56"
+  },
+  "秧秧" : {
+    "name" : "秧秧.json",
+    "filePath" : "assets/data/weight/default/%E7%A7%A7%E7%A7%A7.json",
+    "aimPath" : "assets/data/weight/default/秧秧.json",
+    "md5" : "901c6288b7213c22c53328cdb2cf94d5"
+  },
   "维里奈" : {
     "name" : "维里奈.json",
     "filePath" : "assets/data/weight/default/%E7%BB%B4%E9%87%8C%E5%A5%88.json",
     "aimPath" : "assets/data/weight/default/维里奈.json",
     "md5" : "be2cdbaa6e77a990ba5cbf37bda5d9a9"
+  },
+  "莫特斐" : {
+    "name" : "莫特斐.json",
+    "filePath" : "assets/data/weight/default/%E8%8E%AB%E7%89%B9%E6%96%90.json",
+    "aimPath" : "assets/data/weight/default/莫特斐.json",
+    "md5" : "8432dfcaae4799c1456310dbf4302bd3"
   },
   "鉴心" : {
     "name" : "鉴心.json",
