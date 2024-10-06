@@ -1,0 +1,80 @@
+{
+  "今汐" : {
+    "name" : "今汐.json",
+    "filePath" : "今汐.json",
+    "aimPath" : "assets/data/weight/default/今汐.json",
+    "md5" : "88404555993fa6d320f6818a4b58d2d5"
+  },
+  "凌阳" : {
+    "name" : "凌阳.json",
+    "filePath" : "凌阳.json",
+    "aimPath" : "assets/data/weight/default/凌阳.json",
+    "md5" : "3d84147699befbb831d862653747066b"
+  },
+  "卡卡罗" : {
+    "name" : "卡卡罗.json",
+    "filePath" : "卡卡罗.json",
+    "aimPath" : "assets/data/weight/default/卡卡罗.json",
+    "md5" : "817496547cfa67facc60c8b15c983c32"
+  },
+  "吟霖" : {
+    "name" : "吟霖.json",
+    "filePath" : "吟霖.json",
+    "aimPath" : "assets/data/weight/default/吟霖.json",
+    "md5" : "178813bfa04eefc2d31820e69d7f62b3"
+  },
+  "安可" : {
+    "name" : "安可.json",
+    "filePath" : "安可.json",
+    "aimPath" : "assets/data/weight/default/安可.json",
+    "md5" : "d6dcefefb79b2e50cf47f34a8e78c532"
+  },
+  "忌炎" : {
+    "name" : "忌炎.json",
+    "filePath" : "忌炎.json",
+    "aimPath" : "assets/data/weight/default/忌炎.json",
+    "md5" : "cb9da49f1e6a76d907dd8eecf017adc1"
+  },
+  "折枝" : {
+    "name" : "折枝.json",
+    "filePath" : "折枝.json",
+    "aimPath" : "assets/data/weight/default/折枝.json",
+    "md5" : "07e2650b37b4d99a1e4163eab63041e6"
+  },
+  "漂泊者·湮灭" : {
+    "name" : "漂泊者·湮灭.json",
+    "filePath" : "漂泊者·湮灭.json",
+    "aimPath" : "assets/data/weight/default/漂泊者·湮灭.json",
+    "md5" : "f99228bb1b946a12216907889bc2bc31"
+  },
+  "漂泊者·衍射" : {
+    "name" : "漂泊者·衍射.json",
+    "filePath" : "漂泊者·衍射.json",
+    "aimPath" : "assets/data/weight/default/漂泊者·衍射.json",
+    "md5" : "b1a944ff8404d1f2bcdda0cff8777f1b"
+  },
+  "相里要" : {
+    "name" : "相里要.json",
+    "filePath" : "相里要.json",
+    "aimPath" : "assets/data/weight/default/相里要.json",
+    "md5" : "9085e631bbcb2d58f2154e3048e6d2a1"
+  },
+  "维里奈" : {
+    "name" : "维里奈.json",
+    "filePath" : "维里奈.json",
+    "aimPath" : "assets/data/weight/default/维里奈.json",
+    "md5" : "86224341b2911cf399f55334f1b35f39"
+  },
+  "鉴心" : {
+    "name" : "鉴心.json",
+    "filePath" : "鉴心.json",
+    "aimPath" : "assets/data/weight/default/鉴心.json",
+    "md5" : "a47a3a48870795bc89c0fa062710d8e1"
+  },
+  "长离" : {
+    "name" : "长离.json",
+    "filePath" : "长离.json",
+    "aimPath" : "assets/data/weight/default/长离.json",
+    "md5" : "e5e915e77b68de7106f7c41d837372b4"
+  }
+}
