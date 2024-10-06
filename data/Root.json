@@ -1,0 +1,35 @@
+{
+  "version" : "1.0.0",
+  "resources" : {
+    "PhantomWeight" : {
+      "name" : "PhantomWeight.json",
+      "filePath" : "PhantomWeight.json",
+      "aimPath" : "assets/data/PhantomWeight.json",
+      "md5" : "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "RoleHeader" : {
+      "name" : "RoleHeader.json",
+      "filePath" : "RoleHeader.json",
+      "aimPath" : "assets/data/RoleHeader.json",
+      "md5" : "c27dac569c85d6d5ea4517c0a3fb6005"
+    },
+    "RoleName" : {
+      "name" : "RoleName.json",
+      "filePath" : "RoleName.json",
+      "aimPath" : "assets/data/RoleName.json",
+      "md5" : "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "RoleWeight" : {
+      "name" : "RoleWeight.json",
+      "filePath" : "RoleWeight.json",
+      "aimPath" : "assets/data/RoleWeight.json",
+      "md5" : "52e39299d1144249c2d16aa7c9d24b0d"
+    },
+    "Root" : {
+      "name" : "Root.json",
+      "filePath" : "Root.json",
+      "aimPath" : "assets/data/Root.json",
+      "md5" : "7572d33f76f5c1bcba69583e9496ba48"
+    }
+  }
+}
