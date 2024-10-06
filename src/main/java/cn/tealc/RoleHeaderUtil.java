@@ -1,6 +1,7 @@
 package cn.tealc;
 
 import cn.hutool.core.io.FileUtil;
+import cn.hutool.core.util.URLUtil;
 import cn.hutool.crypto.digest.DigestUtil;
 import cn.tealc.model.Resource;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -23,7 +24,7 @@ public class RoleHeaderUtil {
     }
     public static void init() throws IOException{
         String aimDir="assets/header/%s";
-
+        String fileDir="assets/header/%s";
 
         Map<String, Resource> map = new LinkedHashMap<>();
         File dir =new File("assets/header");
@@ -33,9 +34,10 @@ public class RoleHeaderUtil {
             if (suffix.equals("png")){
                 String md5 = DigestUtil.md5Hex(img);
                 String name = FileUtil.mainName(img);
-                String filename = img.getName();
+                String filename = URLUtil.encode(img.getName());
+                String filePath = String.format(fileDir, filename);
                 String aimPath = String.format(aimDir, filename);
-                map.put(name,new Resource(img.getName(),filename,aimPath,md5));
+                map.put(name,new Resource(img.getName(),filePath,aimPath,md5));
             }else {
                 System.err.println(img.getName()+"非PNG文件");
             }

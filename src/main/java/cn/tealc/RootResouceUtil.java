@@ -1,6 +1,7 @@
 package cn.tealc;
 
 import cn.hutool.core.io.FileUtil;
+import cn.hutool.core.util.URLUtil;
 import cn.hutool.crypto.digest.DigestUtil;
 import cn.tealc.model.Resource;
 import cn.tealc.model.RootResource;
@@ -22,9 +23,9 @@ public class RootResouceUtil {
         init();
     }
     public static void init() throws IOException{
-        String version = "1.0.0";
+        String version = "1.0.1";
         String aimDir="assets/data/%s";
-
+        String fileDir="data/%s";
 
         RootResource rootResource = new RootResource();
         Map<String, Resource> map = new LinkedHashMap<>();
@@ -36,9 +37,10 @@ public class RootResouceUtil {
                 String md5 = DigestUtil.md5Hex(json);
                 String name = FileUtil.mainName(json);
 
-                String filename = json.getName();
+                String filename = URLUtil.encode(json.getName());
+                String filePath = String.format(fileDir, filename);
                 String aimPath = String.format(aimDir, filename);
-                map.put(name,new Resource(json.getName(),filename,aimPath,md5));
+                map.put(name,new Resource(json.getName(),filePath,aimPath,md5));
             }else {
                 System.err.println(json.getName()+"非JSON文件");
             }

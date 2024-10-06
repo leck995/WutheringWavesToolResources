@@ -1,6 +1,7 @@
 package cn.tealc;
 
 import cn.hutool.core.io.FileUtil;
+import cn.hutool.core.util.URLUtil;
 import cn.hutool.crypto.digest.DigestUtil;
 import cn.tealc.model.Resource;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -21,8 +22,8 @@ public class RoleWeightUtil {
         init();
     }
     public static void init() throws IOException{
-
         String aimDir="assets/data/weight/default/%s";
+        String fileDir="assets/data/weight/default/%s";
 
         Map<String, Resource> map = new LinkedHashMap<>();
         File dir =new File("assets/weight/default");
@@ -32,9 +33,10 @@ public class RoleWeightUtil {
             if (suffix.equals("json")){
                 String md5 = DigestUtil.md5Hex(json);
                 String name = FileUtil.mainName(json);
-                String filename = json.getName();
+                String filename = URLUtil.encode(json.getName());
+                String filePath = String.format(fileDir, filename);
                 String aimPath = String.format(aimDir, filename);
-                map.put(name,new Resource(json.getName(),filename,aimPath,md5));
+                map.put(name,new Resource(json.getName(),filePath,aimPath,md5));
             }else {
                 System.err.println(json.getName()+"非JSON文件");
             }
