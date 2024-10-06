@@ -32,6 +32,9 @@ public class RootResouceUtil {
         File dir =new File("data");
         File[] jsons = dir.listFiles();
         for (File json : jsons) {
+            if (json.getName().equals("Root.json")) {
+                continue;
+            }
             String suffix = FileUtil.getSuffix(json);
             if (suffix.equals("json")){
                 String md5 = DigestUtil.md5Hex(json);

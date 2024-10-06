@@ -12,12 +12,6 @@
       "filePath" : "data/RoleWeight.json",
       "aimPath" : "assets/data/RoleWeight.json",
       "md5" : "62f2047a586888c531bbba1c01bb0eec"
-    },
-    "Root" : {
-      "name" : "Root.json",
-      "filePath" : "data/Root.json",
-      "aimPath" : "assets/data/Root.json",
-      "md5" : "23840767070cd8d0ffcbc182b54d5ba1"
     }
   }
 }
