@@ -35,7 +35,7 @@ public class RoleWeightUtil {
                 String name = FileUtil.mainName(json);
                 String filename = URLUtil.encode(json.getName());
                 String filePath = String.format(fileDir, filename);
-                String aimPath = String.format(aimDir, filename);
+                String aimPath = String.format(aimDir, json.getName());
                 map.put(name,new Resource(json.getName(),filePath,aimPath,md5));
             }else {
                 System.err.println(json.getName()+"非JSON文件");

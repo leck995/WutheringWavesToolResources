@@ -36,7 +36,7 @@ public class RoleHeaderUtil {
                 String name = FileUtil.mainName(img);
                 String filename = URLUtil.encode(img.getName());
                 String filePath = String.format(fileDir, filename);
-                String aimPath = String.format(aimDir, filename);
+                String aimPath = String.format(aimDir, img.getName());
                 map.put(name,new Resource(img.getName(),filePath,aimPath,md5));
             }else {
                 System.err.println(img.getName()+"非PNG文件");

@@ -32,6 +32,9 @@ public class RootResouceUtil {
         File dir =new File("data");
         File[] jsons = dir.listFiles();
         for (File json : jsons) {
+            if (json.getName().equals("Root.json")) {
+                continue;
+            }
             String suffix = FileUtil.getSuffix(json);
             if (suffix.equals("json")){
                 String md5 = DigestUtil.md5Hex(json);
@@ -39,7 +42,7 @@ public class RootResouceUtil {
 
                 String filename = URLUtil.encode(json.getName());
                 String filePath = String.format(fileDir, filename);
-                String aimPath = String.format(aimDir, filename);
+                String aimPath = String.format(aimDir, json.getName());
                 map.put(name,new Resource(json.getName(),filePath,aimPath,md5));
             }else {
                 System.err.println(json.getName()+"非JSON文件");
