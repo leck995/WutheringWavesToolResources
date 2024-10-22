@@ -9,14 +9,14 @@
     },
     "BaseData" : {
       "name" : "BaseData.json",
-      "filePath" : "assets/data/zh_CN/BaseData.json",
-      "aimPath" : "assets/data/zh_CN/BaseData.json",
+      "filePath" : "assets/data/default/BaseData.json",
+      "aimPath" : "assets/data/default/BaseData.json",
       "md5" : "1ced363b2594c58fa1c7b864c2dc899d"
     },
     "RoleHeader" : {
       "name" : "RoleHeader.json",
-      "filePath" : "assets/data/zh_CN/RoleHeader.json",
-      "aimPath" : "assets/data/zh_CN/RoleHeader.json",
+      "filePath" : "assets/data/default/RoleHeader.json",
+      "aimPath" : "assets/data/default/RoleHeader.json",
       "md5" : "c5cff9b96f41145e79f3dc3c135e9650"
     }
   }

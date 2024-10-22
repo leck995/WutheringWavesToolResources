@@ -35,16 +35,44 @@ public class RootResouceUtil {
         RootResource rootResource = new RootResource();
         Map<String, Resource> map = new LinkedHashMap<>();
         //先把各语言下需要的JSON进行添加上
-        addFromLocalDir(new File(String.format(Local_DATA_DIR_FILEPATH,locale)),map,locale);
+        addFromLocalDir(new File(String.format(Local_DATA_DIR_FILEPATH,locale)),map,locale.toString());
         //然后获取通用的
-        addFromLocalDir(new File(String.format(BASE_DATA_DIR_FILEPATH)),map,locale);
+        addFromLocalDir(new File(String.format(BASE_DATA_DIR_FILEPATH)),map,"default");
         rootResource.setVersion(version);
         rootResource.setResources(map);
         ObjectMapper mapper = new ObjectMapper();
         mapper.writerWithDefaultPrettyPrinter().writeValue(new File(String.format(ROOT_JSON_TEMPLATE,locale)),rootResource);
     }
 
-    private static void addFromLocalDir(File dir,Map<String,Resource> map,Locale locale){
+    private static void addFromLocalDir(File dir,Map<String,Resource> map,String locale){
+        System.out.println(dir.getAbsolutePath());
+        File[] jsons = dir.listFiles();
+        if (jsons != null) {
+            for (File json : jsons) {
+                if (json.getName().equals("Root.json")) {
+                    continue;
+                }
+                String suffix = FileUtil.getSuffix(json);
+                if (suffix != null) {
+                    if (suffix.equals("json")){
+                        String md5 = DigestUtil.md5Hex(json);
+                        String name = FileUtil.mainName(json);
+
+                        String filename = URLUtil.encode(json.getName());
+                        String filePath = String.format(FILE_FILEPATH, locale, filename);
+                        String aimPath = String.format(AIM_FILEPATH, locale, json.getName());
+                        map.put(name,new Resource(json.getName(),filePath,aimPath,md5));
+                    }else {
+                        System.err.println(json.getName()+"非JSON文件");
+                    }
+                }
+
+            }
+        }
+
+    }
+
+    private static void addFromDefaultDir(File dir,Map<String,Resource> map,Locale locale){
         System.out.println(dir.getAbsolutePath());
         File[] jsons = dir.listFiles();
         if (jsons != null) {
