@@ -1,0 +1,282 @@
+{
+  "1601" : {
+    "roleId" : 1601,
+    "names" : {
+      "zh_CN" : "桃祈",
+      "ko_KR" : "도기",
+      "en" : "Taoqi",
+      "ja" : "桃祈"
+    },
+    "icon" : "1601.png"
+  },
+  "1602" : {
+    "roleId" : 1602,
+    "names" : {
+      "zh_CN" : "丹瑾",
+      "ko_KR" : "단근",
+      "en" : "Danjin",
+      "ja" : "丹瑾"
+    },
+    "icon" : "1602.png"
+  },
+  "1603" : {
+    "roleId" : 1603,
+    "names" : {
+      "zh_CN" : "椿",
+      "ko_KR" : "카멜리아",
+      "en" : "Camellya",
+      "ja" : "ツバキ"
+    },
+    "icon" : "1603.png"
+  },
+  "1604" : {
+    "roleId" : 1604,
+    "names" : {
+      "zh_CN" : "漂泊者·湮灭",
+      "ko_KR" : "방랑자 · 인멸",
+      "en" : "Rover-Havoc",
+      "ja" : "漂泊者・消滅"
+    },
+    "icon" : "1604.png"
+  },
+  "1605" : {
+    "roleId" : 1605,
+    "names" : {
+      "zh_CN" : "漂泊者·湮灭",
+      "ko_KR" : "방랑자 · 인멸",
+      "en" : "Rover-Havoc",
+      "ja" : "漂泊者・消滅"
+    },
+    "icon" : "1605.png"
+  },
+  "1102" : {
+    "roleId" : 1102,
+    "names" : {
+      "zh_CN" : "散华",
+      "ko_KR" : "산화",
+      "en" : "Sanhua",
+      "ja" : "散華"
+    },
+    "icon" : "1102.png"
+  },
+  "1103" : {
+    "roleId" : 1103,
+    "names" : {
+      "zh_CN" : "白芷",
+      "ko_KR" : "설지",
+      "en" : "Baizhi",
+      "ja" : "白芷"
+    },
+    "icon" : "1103.png"
+  },
+  "1104" : {
+    "roleId" : 1104,
+    "names" : {
+      "zh_CN" : "凌阳",
+      "ko_KR" : "능양",
+      "en" : "Lingyang",
+      "ja" : "凌陽"
+    },
+    "icon" : "1104.png"
+  },
+  "1105" : {
+    "roleId" : 1105,
+    "names" : {
+      "zh_CN" : "折枝",
+      "ko_KR" : "절지",
+      "en" : "Zhezhi",
+      "ja" : "折枝"
+    },
+    "icon" : "1105.png"
+  },
+  "1106" : {
+    "roleId" : 1106,
+    "names" : {
+      "zh_CN" : "釉瑚",
+      "ko_KR" : "유호",
+      "en" : "Youhu",
+      "ja" : "釉瑚"
+    },
+    "icon" : "1106.png"
+  },
+  "1301" : {
+    "roleId" : 1301,
+    "names" : {
+      "zh_CN" : "卡卡罗",
+      "ko_KR" : "카카루",
+      "en" : "Calcharo",
+      "ja" : "カカロ"
+    },
+    "icon" : "1301.png"
+  },
+  "1302" : {
+    "roleId" : 1302,
+    "names" : {
+      "zh_CN" : "吟霖",
+      "ko_KR" : "음림",
+      "en" : "Yinlin",
+      "ja" : "吟霖"
+    },
+    "icon" : "1302.png"
+  },
+  "1303" : {
+    "roleId" : 1303,
+    "names" : {
+      "zh_CN" : "渊武",
+      "ko_KR" : "연무",
+      "en" : "Yuanwu",
+      "ja" : "淵武"
+    },
+    "icon" : "1303.png"
+  },
+  "1304" : {
+    "roleId" : 1304,
+    "names" : {
+      "zh_CN" : "今汐",
+      "ko_KR" : "금희",
+      "en" : "Jinhsi",
+      "ja" : "今汐"
+    },
+    "icon" : "1304.png"
+  },
+  "1305" : {
+    "roleId" : 1305,
+    "names" : {
+      "zh_CN" : "相里要",
+      "ko_KR" : "상리요",
+      "en" : "Xiangli Yao",
+      "ja" : "相里要"
+    },
+    "icon" : "1305.png"
+  },
+  "1501" : {
+    "roleId" : 1501,
+    "names" : {
+      "zh_CN" : "漂泊者·衍射",
+      "ko_KR" : "방랑자",
+      "en" : "Rover-Spectro",
+      "ja" : "漂泊者·回折"
+    },
+    "icon" : "1501.png"
+  },
+  "1502" : {
+    "roleId" : 1502,
+    "names" : {
+      "zh_CN" : "漂泊者·衍射",
+      "ko_KR" : "방랑자",
+      "en" : "Rover-Spectro",
+      "ja" : "漂泊者・回折"
+    },
+    "icon" : "1502.png"
+  },
+  "1503" : {
+    "roleId" : 1503,
+    "names" : {
+      "zh_CN" : "维里奈",
+      "ko_KR" : "벨리나",
+      "en" : "Verina",
+      "ja" : "ヴェリーナ"
+    },
+    "icon" : "1503.png"
+  },
+  "1504" : {
+    "roleId" : 1504,
+    "names" : {
+      "zh_CN" : "灯灯",
+      "ko_KR" : "루미",
+      "en" : "Lumi",
+      "ja" : "灯灯"
+    },
+    "icon" : "1504.png"
+  },
+  "1505" : {
+    "roleId" : 1505,
+    "names" : {
+      "zh_CN" : "守岸人",
+      "ko_KR" : "파수인",
+      "en" : "Shorekeeper",
+      "ja" : "ショアキーパー"
+    },
+    "icon" : "1505.png"
+  },
+  "1202" : {
+    "roleId" : 1202,
+    "names" : {
+      "zh_CN" : "炽霞",
+      "ko_KR" : "치샤",
+      "en" : "Chixia",
+      "ja" : "熾霞"
+    },
+    "icon" : "1202.png"
+  },
+  "1203" : {
+    "roleId" : 1203,
+    "names" : {
+      "zh_CN" : "安可",
+      "ko_KR" : "앙코",
+      "en" : "Encore",
+      "ja" : "アンコ"
+    },
+    "icon" : "1203.png"
+  },
+  "1204" : {
+    "roleId" : 1204,
+    "names" : {
+      "zh_CN" : "莫特斐",
+      "ko_KR" : "모르테피",
+      "en" : "Mortefi",
+      "ja" : "モルトフィー"
+    },
+    "icon" : "1204.png"
+  },
+  "1205" : {
+    "roleId" : 1205,
+    "names" : {
+      "zh_CN" : "长离",
+      "ko_KR" : "장리",
+      "en" : "Changli",
+      "ja" : "長離"
+    },
+    "icon" : "1205.png"
+  },
+  "1402" : {
+    "roleId" : 1402,
+    "names" : {
+      "zh_CN" : "秧秧",
+      "ko_KR" : "양양",
+      "en" : "Yangyang",
+      "ja" : "秧秧"
+    },
+    "icon" : "1402.png"
+  },
+  "1403" : {
+    "roleId" : 1403,
+    "names" : {
+      "zh_CN" : "秋水",
+      "ko_KR" : "알토",
+      "en" : "Aalto",
+      "ja" : "アールト"
+    },
+    "icon" : "1403.png"
+  },
+  "1404" : {
+    "roleId" : 1404,
+    "names" : {
+      "zh_CN" : "忌炎",
+      "ko_KR" : "기염",
+      "en" : "Jiyan",
+      "ja" : "忌炎"
+    },
+    "icon" : "1404.png"
+  },
+  "1405" : {
+    "roleId" : 1405,
+    "names" : {
+      "zh_CN" : "鉴心",
+      "ko_KR" : "감심",
+      "en" : "Jianxin",
+      "ja" : "鑑心"
+    },
+    "icon" : "1405.png"
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "21040064" : {
+    "roleId" : 21040064,
+    "names" : {
+      "zh_CN" : "骇行",
+      "ko_KR" : "천공의 역행",
+      "en" : "Hollow Mirage",
+      "ja" : "驚異の星"
+    },
+    "icon" : "21040064.png"
+  },
+  "21050053" : {
+    "roleId" : 21050053,
+    "names" : {
+      "zh_CN" : "戍关音感仪·留光",
+      "ko_KR" : "수호자의 증폭기 · 모략",
+      "en" : "Guardian Rectifier",
+      "ja" : "辺守増幅器・伝承"
+    },
+    "icon" : "21050053.png"
+  },
+  "21030084" : {
+    "roleId" : 21030084,
+    "names" : {
+      "zh_CN" : "悖论喷流",
+      "ko_KR" : "역설의 격류",
+      "en" : "Relativistic Jet",
+      "ja" : "悖理を説く宇宙ジェット"
+    },
+    "icon" : "21030084.png"
+  },
+  "21040074" : {
+    "roleId" : 21040074,
+    "names" : {
+      "zh_CN" : "金掌",
+      "ko_KR" : "황금 권갑",
+      "en" : "Stonard",
+      "ja" : "黄金の拳"
+    },
+    "icon" : "21040074.png"
+  },
+  "21050063" : {
+    "roleId" : 21050063,
+    "names" : {
+      "zh_CN" : "戍关音感仪·留光",
+      "ko_KR" : "수호자의 증폭기 · 모략",
+      "en" : "Guardian Rectifier",
+      "ja" : "辺守増幅器・伝承"
+    },
+    "icon" : "21050063.png"
+  },
+  "21050064" : {
+    "roleId" : 21050064,
+    "names" : {
+      "zh_CN" : "异度",
+      "ko_KR" : "굉음",
+      "en" : "Comet Flare",
+      "ja" : "変化の星"
+    },
+    "icon" : "21050064.png"
+  },
+  "21040084" : {
+    "roleId" : 21040084,
+    "names" : {
+      "zh_CN" : "尘云旋臂",
+      "ko_KR" : "천상의 나선",
+      "en" : "Celestial Spiral",
+      "ja" : "星屑が捩れる渦巻腕"
+    },
+    "icon" : "21040084.png"
+  },
+  "21010011" : {
+    "roleId" : 21010011,
+    "names" : {
+      "zh_CN" : "教学长刃",
+      "ko_KR" : "견습용 대검",
+      "en" : "Training Broadblade",
+      "ja" : "稽古用長刃"
+    },
+    "icon" : "21010011.png"
+  },
+  "21050074" : {
+    "roleId" : 21050074,
+    "names" : {
+      "zh_CN" : "清音",
+      "ko_KR" : "청음",
+      "en" : "Augment",
+      "ja" : "清らかな音"
+    },
+    "icon" : "21050074.png"
+  },
+  "21010012" : {
+    "roleId" : 21010012,
+    "names" : {
+      "zh_CN" : "原初长刃·朴石",
+      "ko_KR" : "태초의 대검",
+      "en" : "Tyro Broadblade",
+      "ja" : "原初の長刃・岩塊"
+    },
+    "icon" : "21010012.png"
+  },
+  "21010013" : {
+    "roleId" : 21010013,
+    "names" : {
+      "zh_CN" : "暗夜长刃·玄明",
+      "ko_KR" : "흑야의 대검 · 현명",
+      "en" : "Broadblade of Night",
+      "ja" : "暗夜の長刃・玄明"
+    },
+    "icon" : "21010013.png"
+  },
+  "21010015" : {
+    "roleId" : 21010015,
+    "names" : {
+      "zh_CN" : "浩境粼光",
+      "ko_KR" : "푸른물결의 빛",
+      "en" : "Lustrous Razor",
+      "ja" : "仙境の湖光"
+    },
+    "icon" : "21010015.png"
+  },
+  "21010016" : {
+    "roleId" : 21010016,
+    "names" : {
+      "zh_CN" : "苍鳞千嶂",
+      "ko_KR" : "청룡의 천장",
+      "en" : "Verdant Summit",
+      "ja" : "蒼鱗連峰"
+    },
+    "icon" : "21010016.png"
+  },
+  "21050084" : {
+    "roleId" : 21050084,
+    "names" : {
+      "zh_CN" : "核熔星盘",
+      "ko_KR" : "융합의 원반",
+      "en" : "Fusion Accretion",
+      "ja" : "コアが溶融する降着円盤"
+    },
+    "icon" : "21050084.png"
+  },
+  "21010023" : {
+    "roleId" : 21010023,
+    "names" : {
+      "zh_CN" : "源能长刃·测壹",
+      "ko_KR" : "원능의 대검 · 견습I",
+      "en" : "Originite: Type I",
+      "ja" : "本源長刃・試作壱"
+    },
+    "icon" : "21010023.png"
+  },
+  "21010024" : {
+    "roleId" : 21010024,
+    "names" : {
+      "zh_CN" : "异响空灵",
+      "ko_KR" : "기묘한 울림",
+      "en" : "Discord",
+      "ja" : "霊感ディスコード"
+    },
+    "icon" : "21010024.png"
+  },
+  "21010026" : {
+    "roleId" : 21010026,
+    "names" : {
+      "zh_CN" : "时和岁稔",
+      "ko_KR" : "태평성대",
+      "en" : "Ages of Harvest",
+      "ja" : "歳華調和"
+    },
+    "icon" : "21010026.png"
+  },
+  "21020011" : {
+    "roleId" : 21020011,
+    "names" : {
+      "zh_CN" : "教学迅刀",
+      "ko_KR" : "견습용 직검",
+      "en" : "Training Sword",
+      "ja" : "稽古用迅刀"
+    },
+    "icon" : "21020011.png"
+  },
+  "21020012" : {
+    "roleId" : 21020012,
+    "names" : {
+      "zh_CN" : "原初迅刀·鸣雨",
+      "ko_KR" : "태초의 직검",
+      "en" : "Tyro Sword",
+      "ja" : "原初の迅刀・雨鳴"
+    },
+    "icon" : "21020012.png"
+  },
+  "21020013" : {
+    "roleId" : 21020013,
+    "names" : {
+      "zh_CN" : "暗夜迅刀·黑闪",
+      "ko_KR" : "흑야의 직검 · 흑뢰",
+      "en" : "Sword of Night",
+      "ja" : "暗夜の迅刀・黒閃"
+    },
+    "icon" : "21020013.png"
+  },
+  "21020015" : {
+    "roleId" : 21020015,
+    "names" : {
+      "zh_CN" : "千古洑流",
+      "ko_KR" : "천년의 회류",
+      "en" : "Emerald of Genesis",
+      "ja" : "千古の湖水"
+    },
+    "icon" : "21020015.png"
+  },
+  "21020016" : {
+    "roleId" : 21020016,
+    "names" : {
+      "zh_CN" : "赫奕流明",
+      "ko_KR" : "솟아오르는 화염",
+      "en" : "Blazing Brilliance",
+      "ja" : "赫く燃ゆる流光"
+    },
+    "icon" : "21020016.png"
+  },
+  "21020017" : {
+    "roleId" : 21020017,
+    "names" : {
+      "zh_CN" : "心之锚",
+      "ko_KR" : "마음의 닻",
+      "en" : "Somnoire Anchor",
+      "ja" : "心の錨"
+    },
+    "icon" : "21020017.png"
+  },
+  "21010034" : {
+    "roleId" : 21010034,
+    "names" : {
+      "zh_CN" : "重破刃-41型",
+      "ko_KR" : "41형 대검 · 무거운 책임",
+      "en" : "Broadblade#41",
+      "ja" : "重破刃＃41"
+    },
+    "icon" : "21010034.png"
+  },
+  "21020023" : {
+    "roleId" : 21020023,
+    "names" : {
+      "zh_CN" : "源能迅刀·测贰",
+      "ko_KR" : "원능의 직검 · 견습II",
+      "en" : "Originite: Type II",
+      "ja" : "本源迅刀・試作弐"
+    },
+    "icon" : "21020023.png"
+  },
+  "21020024" : {
+    "roleId" : 21020024,
+    "names" : {
+      "zh_CN" : "行进序曲",
+      "ko_KR" : "행진의 서곡",
+      "en" : "Overture",
+      "ja" : "行進オーバーチュア"
+    },
+    "icon" : "21020024.png"
+  },
+  "21020026" : {
+    "roleId" : 21020026,
+    "names" : {
+      "zh_CN" : "裁春",
+      "ko_KR" : "날카로운 봄",
+      "en" : "Red Spring",
+      "ja" : "春裁ち"
+    },
+    "icon" : "21020026.png"
+  },
+  "21030011" : {
+    "roleId" : 21030011,
+    "names" : {
+      "zh_CN" : "教学佩枪",
+      "ko_KR" : "견습용 권총",
+      "en" : "Training Pistols",
+      "ja" : "稽古用拳銃"
+    },
+    "icon" : "21030011.png"
+  },
+  "21010043" : {
+    "roleId" : 21010043,
+    "names" : {
+      "zh_CN" : "远行者长刃·辟路",
+      "ko_KR" : "수행자의 대검 · 벽로",
+      "en" : "Broadblade of Voyager",
+      "ja" : "探索者長刃・開拓"
+    },
+    "icon" : "21010043.png"
+  },
+  "21010044" : {
+    "roleId" : 21010044,
+    "names" : {
+      "zh_CN" : "永夜长明",
+      "ko_KR" : "장야의 불빛",
+      "en" : "Dauntless Evernight",
+      "ja" : "長夜の灯火"
+    },
+    "icon" : "21010044.png"
+  },
+  "21030012" : {
+    "roleId" : 21030012,
+    "names" : {
+      "zh_CN" : "原初佩枪·穿林",
+      "ko_KR" : "태초의 권총",
+      "en" : "Tyro Pistols",
+      "ja" : "原初の拳銃・深森"
+    },
+    "icon" : "21030012.png"
+  },
+  "21030013" : {
+    "roleId" : 21030013,
+    "names" : {
+      "zh_CN" : "暗夜佩枪·暗星",
+      "ko_KR" : "흑야의 권총 · 흑성",
+      "en" : "Pistols of Night",
+      "ja" : "暗夜の拳銃・闇星"
+    },
+    "icon" : "21030013.png"
+  },
+  "21030015" : {
+    "roleId" : 21030015,
+    "names" : {
+      "zh_CN" : "停驻之烟",
+      "ko_KR" : "부동의 안개",
+      "en" : "Static Mist",
+      "ja" : "不変の湖煙"
+    },
+    "icon" : "21030015.png"
+  },
+  "21020034" : {
+    "roleId" : 21020034,
+    "names" : {
+      "zh_CN" : "瞬斩刀-18型",
+      "ko_KR" : "18형 직검 · 순간의 칼빛",
+      "en" : "Sword#18",
+      "ja" : "瞬斬刀＃18"
+    },
+    "icon" : "21020034.png"
+  },
+  "21010053" : {
+    "roleId" : 21010053,
+    "names" : {
+      "zh_CN" : "戍关长刃·定军",
+      "ko_KR" : "수호자의 대검 · 근성",
+      "en" : "Guardian Broadblade",
+      "ja" : "辺守長刃・統率"
+    },
+    "icon" : "21010053.png"
+  },
+  "21030023" : {
+    "roleId" : 21030023,
+    "names" : {
+      "zh_CN" : "源能佩枪·测叁",
+      "ko_KR" : "원능의 권총 · 견습III",
+      "en" : "Originite: Type III",
+      "ja" : "本源拳銃・試作参"
+    },
+    "icon" : "21030023.png"
+  },
+  "21030024" : {
+    "roleId" : 21030024,
+    "names" : {
+      "zh_CN" : "华彩乐段",
+      "ko_KR" : "화려한 악곡",
+      "en" : "Cadenza",
+      "ja" : "華麗カテンツァ"
+    },
+    "icon" : "21030024.png"
+  },
+  "21040011" : {
+    "roleId" : 21040011,
+    "names" : {
+      "zh_CN" : "教学臂铠",
+      "ko_KR" : "견습용 권갑",
+      "en" : "Training Gauntlets",
+      "ja" : "稽古用手甲"
+    },
+    "icon" : "21040011.png"
+  },
+  "21020043" : {
+    "roleId" : 21020043,
+    "names" : {
+      "zh_CN" : "远行者迅刀·旅迹",
+      "ko_KR" : "수행자의 직검 · 행적",
+      "en" : "Sword of Voyager",
+      "ja" : "探索者迅刀・旅路"
+    },
+    "icon" : "21020043.png"
+  },
+  "21020044" : {
+    "roleId" : 21020044,
+    "names" : {
+      "zh_CN" : "不归孤军",
+      "ko_KR" : "야귀의 신념",
+      "en" : "Commando of Conviction",
+      "ja" : "決死の一人戦"
+    },
+    "icon" : "21020044.png"
+  },
+  "21040013" : {
+    "roleId" : 21040013,
+    "names" : {
+      "zh_CN" : "暗夜臂铠·夜芒",
+      "ko_KR" : "흑야의 권갑 · 흑빛",
+      "en" : "Gauntlets of Night",
+      "ja" : "暗夜の手甲・夜灯"
+    },
+    "icon" : "21040013.png"
+  },
+  "21040012" : {
+    "roleId" : 21040012,
+    "names" : {
+      "zh_CN" : "原初臂铠·磐岩",
+      "ko_KR" : "태초의 권갑",
+      "en" : "Tyro Gauntlets",
+      "ja" : "原初の手甲・磐石"
+    },
+    "icon" : "21040012.png"
+  },
+  "21040015" : {
+    "roleId" : 21040015,
+    "names" : {
+      "zh_CN" : "擎渊怒涛",
+      "ko_KR" : "물결의 파동",
+      "en" : "Abyss Surges",
+      "ja" : "怒涛の湖音"
+    },
+    "icon" : "21040015.png"
+  },
+  "21010063" : {
+    "roleId" : 21010063,
+    "names" : {
+      "zh_CN" : "钧天正音",
+      "ko_KR" : "천상의 음률",
+      "en" : "Beguiling Melody",
+      "ja" : "天上の仙楽"
+    },
+    "icon" : "21010063.png"
+  },
+  "21010064" : {
+    "roleId" : 21010064,
+    "names" : {
+      "zh_CN" : "东落",
+      "ko_KR" : "저무는 동녘",
+      "en" : "Helios Cleaver",
+      "ja" : "逆行の星"
+    },
+    "icon" : "21010064.png"
+  },
+  "21040016" : {
+    "roleId" : 21040016,
+    "names" : {
+      "zh_CN" : "诸方玄枢",
+      "ko_KR" : "팔방의 천추",
+      "en" : "Verity's Handle",
+      "ja" : "万端の枢機"
+    },
+    "icon" : "21040016.png"
+  },
+  "21030034" : {
+    "roleId" : 21030034,
+    "names" : {
+      "zh_CN" : "穿击枪-26型",
+      "ko_KR" : "26형 권총 · 맹렬한 돌격",
+      "en" : "Pistols#26",
+      "ja" : "穿撃銃＃26"
+    },
+    "icon" : "21030034.png"
+  },
+  "21020053" : {
+    "roleId" : 21020053,
+    "names" : {
+      "zh_CN" : "戍关迅刀·镇海",
+      "ko_KR" : "수호자의 직검 · 기민",
+      "en" : "Guardian Sword",
+      "ja" : "辺守迅刀・鎮護"
+    },
+    "icon" : "21020053.png"
+  },
+  "21040023" : {
+    "roleId" : 21040023,
+    "names" : {
+      "zh_CN" : "源能臂铠·测肆",
+      "ko_KR" : "원능의 권갑 · 견습IV",
+      "en" : "Originite: Type IV",
+      "ja" : "本源手甲・試作肆"
+    },
+    "icon" : "21040023.png"
+  },
+  "21040024" : {
+    "roleId" : 21040024,
+    "names" : {
+      "zh_CN" : "呼啸重音",
+      "ko_KR" : "바람의 악센트",
+      "en" : "Marcato",
+      "ja" : "狂乱マルカート"
+    },
+    "icon" : "21040024.png"
+  },
+  "21010073" : {
+    "roleId" : 21010073,
+    "names" : {
+      "zh_CN" : "",
+      "ko_KR" : "",
+      "en" : "",
+      "ja" : ""
+    },
+    "icon" : "21010073.png"
+  },
+  "21050011" : {
+    "roleId" : 21050011,
+    "names" : {
+      "zh_CN" : "教学音感仪",
+      "ko_KR" : "견습용 증폭기",
+      "en" : "Training Rectifier",
+      "ja" : "稽古用増幅器"
+    },
+    "icon" : "21050011.png"
+  },
+  "21010074" : {
+    "roleId" : 21010074,
+    "names" : {
+      "zh_CN" : "纹秋",
+      "ko_KR" : "가을의 무늬",
+      "en" : "Autumntrace",
+      "ja" : "秋の名残"
+    },
+    "icon" : "21010074.png"
+  },
+  "21030043" : {
+    "roleId" : 21030043,
+    "names" : {
+      "zh_CN" : "远行者佩枪·洞察",
+      "ko_KR" : "수행자의 권총 · 통찰",
+      "en" : "Pistols of Voyager",
+      "ja" : "探索者拳銃・洞察"
+    },
+    "icon" : "21030043.png"
+  },
+  "21030044" : {
+    "roleId" : 21030044,
+    "names" : {
+      "zh_CN" : "无眠烈火",
+      "ko_KR" : "불멸의 성화",
+      "en" : "Undying Flame",
+      "ja" : "燃え尽きぬ焔"
+    },
+    "icon" : "21030044.png"
+  },
+  "21050013" : {
+    "roleId" : 21050013,
+    "names" : {
+      "zh_CN" : "暗夜矩阵·暝光",
+      "ko_KR" : "흑야의 증폭기 · 흑광",
+      "en" : "Rectifier of Night",
+      "ja" : "暗夜の増幅器・冥光"
+    },
+    "icon" : "21050013.png"
+  },
+  "21050012" : {
+    "roleId" : 21050012,
+    "names" : {
+      "zh_CN" : "原初音感仪·听浪",
+      "ko_KR" : "태초의 증폭기",
+      "en" : "Tyro Rectifier",
+      "ja" : "原初の増幅器・波音"
+    },
+    "icon" : "21050012.png"
+  },
+  "21050015" : {
+    "roleId" : 21050015,
+    "names" : {
+      "zh_CN" : "漪澜浮录",
+      "ko_KR" : "파도의 기록",
+      "en" : "Cosmic Ripples",
+      "ja" : "栄枯の湖岸"
+    },
+    "icon" : "21050015.png"
+  },
+  "21020063" : {
+    "roleId" : 21020063,
+    "names" : {
+      "zh_CN" : "",
+      "ko_KR" : "",
+      "en" : "",
+      "ja" : ""
+    },
+    "icon" : "21020063.png"
+  },
+  "21020064" : {
+    "roleId" : 21020064,
+    "names" : {
+      "zh_CN" : "西升",
+      "ko_KR" : "상승의 서녘",
+      "en" : "Lunar Cutter",
+      "ja" : "倒錯の星"
+    },
+    "icon" : "21020064.png"
+  },
+  "21050016" : {
+    "roleId" : 21050016,
+    "names" : {
+      "zh_CN" : "掣傀之手",
+      "ko_KR" : "꼭두각시의 손",
+      "en" : "Stringmaster",
+      "ja" : "糸繰りの奇術"
+    },
+    "icon" : "21050016.png"
+  },
+  "21040034" : {
+    "roleId" : 21040034,
+    "names" : {
+      "zh_CN" : "钢影拳-21丁型",
+      "ko_KR" : "21형 권갑 · 아이언 팬텀",
+      "en" : "Gauntlets#21D",
+      "ja" : "鋼影拳＃21・四番"
+    },
+    "icon" : "21040034.png"
+  },
+  "21010084" : {
+    "roleId" : 21010084,
+    "names" : {
+      "zh_CN" : "凋亡频移",
+      "ko_KR" : "멸망의 주파수",
+      "en" : "Waning Redshift",
+      "ja" : "破滅に迫る赤方偏移"
+    },
+    "icon" : "21010084.png"
+  },
+  "21030053" : {
+    "roleId" : 21030053,
+    "names" : {
+      "zh_CN" : "戍关佩枪·平云",
+      "ko_KR" : "수호자의 권총 · 용맹",
+      "en" : "Guardian Pistols",
+      "ja" : "辺守拳銃・平定"
+    },
+    "icon" : "21030053.png"
+  },
+  "21050023" : {
+    "roleId" : 21050023,
+    "names" : {
+      "zh_CN" : "源能音感仪·测五",
+      "ko_KR" : "원능의 증폭기 · 견습V",
+      "en" : "Originite: Type V",
+      "ja" : "本源増幅器・試作伍"
+    },
+    "icon" : "21050023.png"
+  },
+  "21050024" : {
+    "roleId" : 21050024,
+    "names" : {
+      "zh_CN" : "奇幻变奏",
+      "ko_KR" : "판타지 변주",
+      "en" : "Variation",
+      "ja" : "奇妙バリエーション"
+    },
+    "icon" : "21050024.png"
+  },
+  "21040043" : {
+    "roleId" : 21040043,
+    "names" : {
+      "zh_CN" : "远行者臂铠·破障",
+      "ko_KR" : "수행자의 권갑 · 파괴",
+      "en" : "Gauntlets of Voyager",
+      "ja" : "探索者手甲・排除"
+    },
+    "icon" : "21040043.png"
+  },
+  "21020074" : {
+    "roleId" : 21020074,
+    "names" : {
+      "zh_CN" : "飞景",
+      "ko_KR" : "천공의 광경",
+      "en" : "Lumingloss",
+      "ja" : "万象変遷"
+    },
+    "icon" : "21020074.png"
+  },
+  "21050026" : {
+    "roleId" : 21050026,
+    "names" : {
+      "zh_CN" : "琼枝冰绡",
+      "ko_KR" : "옥수 비단",
+      "en" : "Rime-Draped Sprouts",
+      "ja" : "氷華の雅印"
+    },
+    "icon" : "21050026.png"
+  },
+  "21040044" : {
+    "roleId" : 21040044,
+    "names" : {
+      "zh_CN" : "袍泽之固",
+      "ko_KR" : "전우의 의리",
+      "en" : "Amity Accord",
+      "ja" : "金鉄の志"
+    },
+    "icon" : "21040044.png"
+  },
+  "21030063" : {
+    "roleId" : 21030063,
+    "names" : {
+      "zh_CN" : "",
+      "ko_KR" : "",
+      "en" : "",
+      "ja" : ""
+    },
+    "icon" : "21030063.png"
+  },
+  "21030064" : {
+    "roleId" : 21030064,
+    "names" : {
+      "zh_CN" : "飞逝",
+      "ko_KR" : "천공의 순간",
+      "en" : "Novaburst",
+      "ja" : "疾走の星"
+    },
+    "icon" : "21030064.png"
+  },
+  "21050034" : {
+    "roleId" : 21050034,
+    "names" : {
+      "zh_CN" : "鸣动仪-25型",
+      "ko_KR" : "25형 증폭기 · 울림의 멜로디",
+      "en" : "Rectifier#25",
+      "ja" : "鳴動機＃25"
+    },
+    "icon" : "21050034.png"
+  },
+  "21040053" : {
+    "roleId" : 21040053,
+    "names" : {
+      "zh_CN" : "戍关臂铠·拔山",
+      "ko_KR" : "수호자의 권갑 · 강력",
+      "en" : "Guardian Gauntlets",
+      "ja" : "辺守手甲・造設"
+    },
+    "icon" : "21040053.png"
+  },
+  "21020084" : {
+    "roleId" : 21020084,
+    "names" : {
+      "zh_CN" : "永续坍缩",
+      "ko_KR" : "영원의 붕괴",
+      "en" : "Endless Collapse",
+      "ja" : "永遠を砕く重力崩壊"
+    },
+    "icon" : "21020084.png"
+  },
+  "21050036" : {
+    "roleId" : 21050036,
+    "names" : {
+      "zh_CN" : "星序协响",
+      "ko_KR" : "뭇별의 교향곡",
+      "en" : "Stellar Symphony",
+      "ja" : "星々のコンチェルト"
+    },
+    "icon" : "21050036.png"
+  },
+  "21030074" : {
+    "roleId" : 21030074,
+    "names" : {
+      "zh_CN" : "奔雷",
+      "ko_KR" : "뇌전",
+      "en" : "Thunderbolt",
+      "ja" : "迸る雷霆"
+    },
+    "icon" : "21030074.png"
+  },
+  "21050043" : {
+    "roleId" : 21050043,
+    "names" : {
+      "zh_CN" : "远行者矩阵·探幽",
+      "ko_KR" : "수행자의 증폭기 · 탐색",
+      "en" : "Rectifier of Voyager",
+      "ja" : "探索者増幅器・発見"
+    },
+    "icon" : "21050043.png"
+  },
+  "21050044" : {
+    "roleId" : 21050044,
+    "names" : {
+      "zh_CN" : "今州守望",
+      "ko_KR" : "금주의 수호",
+      "en" : "Jinzhou Keeper",
+      "ja" : "今州の衛士"
+    },
+    "icon" : "21050044.png"
+  },
+  "21040063" : {
+    "roleId" : 21040063,
+    "names" : {
+      "zh_CN" : "戍关臂铠·拔山",
+      "ko_KR" : "수호자의 권갑 · 강력",
+      "en" : "Guardian Gauntlets",
+      "ja" : "辺守手甲・造設"
+    },
+    "icon" : "21040063.png"
+  }
+}

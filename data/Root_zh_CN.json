@@ -1,0 +1,23 @@
+{
+  "version" : "1.0.3",
+  "resources" : {
+    "RoleWeight" : {
+      "name" : "RoleWeight.json",
+      "filePath" : "assets/data/zh_CN/RoleWeight.json",
+      "aimPath" : "assets/data/zh_CN/RoleWeight.json",
+      "md5" : "3e3b4d07dd08a6b1938e33c42fff4d4d"
+    },
+    "BaseData" : {
+      "name" : "BaseData.json",
+      "filePath" : "assets/data/zh_CN/BaseData.json",
+      "aimPath" : "assets/data/zh_CN/BaseData.json",
+      "md5" : "1ced363b2594c58fa1c7b864c2dc899d"
+    },
+    "RoleHeader" : {
+      "name" : "RoleHeader.json",
+      "filePath" : "assets/data/zh_CN/RoleHeader.json",
+      "aimPath" : "assets/data/zh_CN/RoleHeader.json",
+      "md5" : "c5cff9b96f41145e79f3dc3c135e9650"
+    }
+  }
+}

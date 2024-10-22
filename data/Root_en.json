@@ -1,0 +1,17 @@
+{
+  "version" : "1.0.3",
+  "resources" : {
+    "BaseData" : {
+      "name" : "BaseData.json",
+      "filePath" : "assets/data/en/BaseData.json",
+      "aimPath" : "assets/data/en/BaseData.json",
+      "md5" : "1ced363b2594c58fa1c7b864c2dc899d"
+    },
+    "RoleHeader" : {
+      "name" : "RoleHeader.json",
+      "filePath" : "assets/data/en/RoleHeader.json",
+      "aimPath" : "assets/data/en/RoleHeader.json",
+      "md5" : "c5cff9b96f41145e79f3dc3c135e9650"
+    }
+  }
+}
