@@ -65,6 +65,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/桃祈.json",
     "md5" : "45f621228f5fbe4fe3bf0f050b74c961"
   },
+  "椿" : {
+    "name" : "椿.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E6%A4%BF.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/椿.json",
+    "md5" : "a682d9124ab51565648c3152e809ac08"
+  },
   "渊武" : {
     "name" : "渊武.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E6%B8%8A%E6%AD%A6.json",
@@ -124,6 +130,12 @@
     "filePath" : "assets/data/zh_CN/weight/default/%E8%8E%AB%E7%89%B9%E6%96%90.json",
     "aimPath" : "assets/data/zh_CN/weight/default/莫特斐.json",
     "md5" : "8432dfcaae4799c1456310dbf4302bd3"
+  },
+  "釉瑚" : {
+    "name" : "釉瑚.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E9%87%89%E7%91%9A.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/釉瑚.json",
+    "md5" : "97e8214b1462730a32c8d7b012743a3f"
   },
   "鉴心" : {
     "name" : "鉴心.json",
