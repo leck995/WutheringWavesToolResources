@@ -65,7 +65,7 @@ public class BaseDataSyncUtil {
         String s = temp.replace("/Game/Aki","");
         String iconurl = hakush+s + ".webp";
 
-        File file = new File(iconDir+id+"png");
+        File file = new File(iconDir+id+".png");
 
 
         webpToPng(iconurl,file);
