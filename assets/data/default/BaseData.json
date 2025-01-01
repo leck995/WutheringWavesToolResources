@@ -3,12 +3,12 @@
     "name" : "RoleBaseData.json",
     "filePath" : "assets/data/base/RoleBaseData.json",
     "aimPath" : "assets/data/base/RoleBaseData.json",
-    "md5" : "fa2a4131e9182dbe74b5456f25808722"
+    "md5" : "7dd459ea7ddcfa5aed3600a344bfe086"
   },
   "WeaponBaseData" : {
     "name" : "WeaponBaseData.json",
     "filePath" : "assets/data/base/WeaponBaseData.json",
     "aimPath" : "assets/data/base/WeaponBaseData.json",
-    "md5" : "b38240ae211508c897380aa746f70b8c"
+    "md5" : "1606b6e1081ad79b5e5d49e62b234b1e"
   }
 }
