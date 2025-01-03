@@ -263,12 +263,6 @@
     "aimPath" : "assets/header/21010064.png",
     "md5" : "e5cc22101c89a44c617956edbd3f3de9"
   },
-  "21010073" : {
-    "name" : "21010073.png",
-    "filePath" : "assets/header/21010073.png",
-    "aimPath" : "assets/header/21010073.png",
-    "md5" : "eddb88cd5e71a88a0fff629d2561f8f4"
-  },
   "21010074" : {
     "name" : "21010074.png",
     "filePath" : "assets/header/21010074.png",
@@ -365,12 +359,6 @@
     "aimPath" : "assets/header/21020053.png",
     "md5" : "5c51fd9d82590ee7bc860c4ba6460ee5"
   },
-  "21020063" : {
-    "name" : "21020063.png",
-    "filePath" : "assets/header/21020063.png",
-    "aimPath" : "assets/header/21020063.png",
-    "md5" : "5c51fd9d82590ee7bc860c4ba6460ee5"
-  },
   "21020064" : {
     "name" : "21020064.png",
     "filePath" : "assets/header/21020064.png",
@@ -459,12 +447,6 @@
     "name" : "21030053.png",
     "filePath" : "assets/header/21030053.png",
     "aimPath" : "assets/header/21030053.png",
-    "md5" : "d67a9e4a5dcaf6d9da1f8542621e3fb5"
-  },
-  "21030063" : {
-    "name" : "21030063.png",
-    "filePath" : "assets/header/21030063.png",
-    "aimPath" : "assets/header/21030063.png",
     "md5" : "d67a9e4a5dcaf6d9da1f8542621e3fb5"
   },
   "21030064" : {
@@ -561,12 +543,6 @@
     "name" : "21040053.png",
     "filePath" : "assets/header/21040053.png",
     "aimPath" : "assets/header/21040053.png",
-    "md5" : "d7025a8009d2aeb57203da9a916ee242"
-  },
-  "21040063" : {
-    "name" : "21040063.png",
-    "filePath" : "assets/header/21040063.png",
-    "aimPath" : "assets/header/21040063.png",
     "md5" : "d7025a8009d2aeb57203da9a916ee242"
   },
   "21040064" : {
@@ -675,12 +651,6 @@
     "name" : "21050053.png",
     "filePath" : "assets/header/21050053.png",
     "aimPath" : "assets/header/21050053.png",
-    "md5" : "7f97ade888257d0ae6e4804850e05d2a"
-  },
-  "21050063" : {
-    "name" : "21050063.png",
-    "filePath" : "assets/header/21050063.png",
-    "aimPath" : "assets/header/21050063.png",
     "md5" : "7f97ade888257d0ae6e4804850e05d2a"
   },
   "21050064" : {
