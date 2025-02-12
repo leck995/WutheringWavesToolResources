@@ -1,5 +1,5 @@
 {
-  "version" : "1.1.0",
+  "version" : "1.1.1",
   "resources" : {
     "RoleWeight" : {
       "name" : "RoleWeight.json",
@@ -11,13 +11,13 @@
       "name" : "BaseData.json",
       "filePath" : "assets/data/default/BaseData.json",
       "aimPath" : "assets/data/default/BaseData.json",
-      "md5" : "c5d09ad1b45d7ad72d90336e9a39af3f"
+      "md5" : "bd6a96d4016e4528ce80a4f3ed4068a3"
     },
     "RoleHeader" : {
       "name" : "RoleHeader.json",
       "filePath" : "assets/data/default/RoleHeader.json",
       "aimPath" : "assets/data/default/RoleHeader.json",
-      "md5" : "87afff15b397118a5117b61ac7b09474"
+      "md5" : "cb201fc8887552eb0bf25de44714724b"
     }
   }
 }
