@@ -149,6 +149,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/莫特斐.json",
     "md5" : "8432dfcaae4799c1456310dbf4302bd3"
   },
+  "菲比" : {
+    "name" : "菲比.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E8%8F%B2%E6%AF%94.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/菲比.json",
+    "md5" : "7fadfb50287c86e6feeeb861ec11da6c"
+  },
   "釉瑚" : {
     "name" : "釉瑚.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E9%87%89%E7%91%9A.json",
