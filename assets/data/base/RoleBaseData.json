@@ -1,4 +1,14 @@
 {
+  "1408" : {
+    "roleId" : 1408,
+    "names" : {
+      "zh_CN" : "漂泊者·气动",
+      "ko_KR" : "방랑자 · 기류",
+      "en" : "Rover: Aero",
+      "ja" : "漂泊者・気動"
+    },
+    "icon" : "1408.png"
+  },
   "1601" : {
     "roleId" : 1601,
     "names" : {
@@ -34,7 +44,7 @@
     "names" : {
       "zh_CN" : "漂泊者·湮灭",
       "ko_KR" : "방랑자 · 인멸",
-      "en" : "Rover-Havoc",
+      "en" : "Rover: Havoc",
       "ja" : "漂泊者・消滅"
     },
     "icon" : "1604.png"
@@ -44,7 +54,7 @@
     "names" : {
       "zh_CN" : "漂泊者·湮灭",
       "ko_KR" : "방랑자 · 인멸",
-      "en" : "Rover-Havoc",
+      "en" : "Rover: Havoc",
       "ja" : "漂泊者・消滅"
     },
     "icon" : "1605.png"
@@ -58,6 +68,16 @@
       "ja" : "ロココ"
     },
     "icon" : "1606.png"
+  },
+  "1607" : {
+    "roleId" : 1607,
+    "names" : {
+      "zh_CN" : "坎特蕾拉",
+      "ko_KR" : "칸타렐라",
+      "en" : "Cantarella",
+      "ja" : "カンタレラ"
+    },
+    "icon" : "1607.png"
   },
   "1102" : {
     "roleId" : 1102,
@@ -174,7 +194,7 @@
     "names" : {
       "zh_CN" : "漂泊者·衍射",
       "ko_KR" : "방랑자",
-      "en" : "Rover-Spectro",
+      "en" : "Rover: Spectro",
       "ja" : "漂泊者·回折"
     },
     "icon" : "1501.png"
@@ -184,7 +204,7 @@
     "names" : {
       "zh_CN" : "漂泊者·衍射",
       "ko_KR" : "방랑자",
-      "en" : "Rover-Spectro",
+      "en" : "Rover: Spectro",
       "ja" : "漂泊者・回折"
     },
     "icon" : "1502.png"
@@ -318,5 +338,15 @@
       "ja" : "鑑心"
     },
     "icon" : "1405.png"
+  },
+  "1406" : {
+    "roleId" : 1406,
+    "names" : {
+      "zh_CN" : "漂泊者·气动",
+      "ko_KR" : "방랑자 · 기류",
+      "en" : "Rover: Aero",
+      "ja" : "漂泊者・気動"
+    },
+    "icon" : "1406.png"
   }
 }

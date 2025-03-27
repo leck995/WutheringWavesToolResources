@@ -41,6 +41,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/安可.json",
     "md5" : "89bb3911a1af4420a20e8dee7d12184b"
   },
+  "布兰特" : {
+    "name" : "布兰特.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%B8%83%E5%85%B0%E7%89%B9.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/布兰特.json",
+    "md5" : "3b961483302ee820b6ae6a8cd9a5fda9"
+  },
   "忌炎" : {
     "name" : "忌炎.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E5%BF%8C%E7%82%8E.json",
