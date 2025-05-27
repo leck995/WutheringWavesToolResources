@@ -31,7 +31,7 @@ public class RootResouceUtil {
         init(Locale.ENGLISH);
     }
     public static void init(Locale locale) throws IOException{
-        String version = "1.1.5";
+        String version = "1.1.6";
         RootResource rootResource = new RootResource();
         Map<String, Resource> map = new LinkedHashMap<>();
         //先把各语言下需要的JSON进行添加上

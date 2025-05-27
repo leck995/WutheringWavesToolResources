@@ -29,6 +29,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/吟霖.json",
     "md5" : "a69c100e24b317812865742452785a73"
   },
+  "夏空" : {
+    "name" : "夏空.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%A4%8F%E7%A9%BA.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/夏空.json",
+    "md5" : "b6d142ae5f0b984e17701f49c9b56caa"
+  },
   "守岸人" : {
     "name" : "守岸人.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E5%AE%88%E5%B2%B8%E4%BA%BA.json",
@@ -160,6 +166,12 @@
     "filePath" : "assets/data/zh_CN/weight/default/%E8%8F%B2%E6%AF%94.json",
     "aimPath" : "assets/data/zh_CN/weight/default/菲比.json",
     "md5" : "7fadfb50287c86e6feeeb861ec11da6c"
+  },
+  "赞妮" : {
+    "name" : "赞妮.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E8%B5%9E%E5%A6%AE.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/赞妮.json",
+    "md5" : "56b9b2ff3957f566c2abd6a531718617"
   },
   "釉瑚" : {
     "name" : "釉瑚.json",
