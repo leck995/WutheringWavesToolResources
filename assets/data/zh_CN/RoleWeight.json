@@ -23,6 +23,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/卡卡罗.json",
     "md5" : "a61b1ddcebfa2b3de0aeee8202da6b7b"
   },
+  "卡提希娅" : {
+    "name" : "卡提希娅.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%8D%A1%E6%8F%90%E5%B8%8C%E5%A8%85.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/卡提希娅.json",
+    "md5" : "8be12d7fcbbe0407eb8925500f69f1bc"
+  },
   "吟霖" : {
     "name" : "吟霖.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E5%90%9F%E9%9C%96.json",
@@ -94,6 +100,12 @@
     "filePath" : "assets/data/zh_CN/weight/default/%E6%B8%8A%E6%AD%A6.json",
     "aimPath" : "assets/data/zh_CN/weight/default/渊武.json",
     "md5" : "9681378b3c6394373d06011252b08bab"
+  },
+  "漂泊者·气动" : {
+    "name" : "漂泊者·气动.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E6%BC%82%E6%B3%8A%E8%80%85%C2%B7%E6%B0%94%E5%8A%A8.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/漂泊者·气动.json",
+    "md5" : "8c45b7f49d5dfd7e7c6e49cc4b22cc08"
   },
   "漂泊者·湮灭" : {
     "name" : "漂泊者·湮灭.json",
