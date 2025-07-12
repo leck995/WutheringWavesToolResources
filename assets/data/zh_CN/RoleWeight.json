@@ -202,5 +202,11 @@
     "filePath" : "assets/data/zh_CN/weight/default/%E9%95%BF%E7%A6%BB.json",
     "aimPath" : "assets/data/zh_CN/weight/default/长离.json",
     "md5" : "2addc86c7d3b7b2dc27d47f2c33d71d9"
+  },
+  "露帕" : {
+    "name" : "露帕.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E9%9C%B2%E5%B8%95.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/露帕.json",
+    "md5" : "76db423aa13a4b74abe9d2a0e4659d1d"
   }
 }

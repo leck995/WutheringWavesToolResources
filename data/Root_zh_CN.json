@@ -1,11 +1,11 @@
 {
-  "version" : "1.1.8",
+  "version" : "1.1.9",
   "resources" : {
     "RoleWeight" : {
       "name" : "RoleWeight.json",
       "filePath" : "assets/data/zh_CN/RoleWeight.json",
       "aimPath" : "assets/data/zh_CN/RoleWeight.json",
-      "md5" : "74eb213b037680257ed54840612c4127"
+      "md5" : "81da98bc90898c737e5e90bc558f1a3e"
     },
     "BaseData" : {
       "name" : "BaseData.json",
