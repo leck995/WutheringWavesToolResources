@@ -59,6 +59,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/布兰特.json",
     "md5" : "3b961483302ee820b6ae6a8cd9a5fda9"
   },
+  "弗洛洛" : {
+    "name" : "弗洛洛.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%BC%97%E6%B4%9B%E6%B4%9B.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/弗洛洛.json",
+    "md5" : "fd7ee9ea77726559c7042494252d077c"
+  },
   "忌炎" : {
     "name" : "忌炎.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E5%BF%8C%E7%82%8E.json",

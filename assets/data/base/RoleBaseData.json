@@ -89,6 +89,16 @@
     },
     "icon" : "1607.png"
   },
+  "1608" : {
+    "roleId" : 1608,
+    "names" : {
+      "zh_CN" : "弗洛洛",
+      "ko_KR" : "플로로",
+      "en" : "Phrolova",
+      "ja" : "フローヴァ"
+    },
+    "icon" : "1608.png"
+  },
   "1102" : {
     "roleId" : 1102,
     "names" : {
