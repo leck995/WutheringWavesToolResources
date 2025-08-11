@@ -35,6 +35,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/吟霖.json",
     "md5" : "a69c100e24b317812865742452785a73"
   },
+  "坎特蕾拉" : {
+    "name" : "坎特蕾拉.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%9D%8E%E7%89%B9%E8%95%BE%E6%8B%89.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/坎特蕾拉.json",
+    "md5" : "2c57aedfb4d4ad0ea4edb24e43ab7e8f"
+  },
   "夏空" : {
     "name" : "夏空.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E5%A4%8F%E7%A9%BA.json",

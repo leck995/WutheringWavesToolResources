@@ -1,4 +1,4 @@
-package cn.tealc.game;
+package cn.tealc.game.roleweight;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.util.URLUtil;
@@ -13,7 +13,7 @@ import java.util.Map;
 
 /**
  * @program: WutheringWavesToolResources
- * @description: 在default目录下生成头像图片的资源列表JSon
+ * @description: 处理获取到的人物与武器图像，在default目录下生成头像图片的资源列表Json
  * @author: Leck
  * @create: 2024-10-22 20:22
  */

@@ -1,4 +1,4 @@
-package cn.tealc.game;
+package cn.tealc.game.roleweight;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.util.URLUtil;
@@ -18,10 +18,11 @@ import java.util.Map;
  * @create: 2024-10-22 20:22
  */
 public class BaseData2Json {
-    private static final String JSON_PATH_TEMPLATE="assets/data/default/BaseData.json";
-    private static final String AIM_DIR_TEMPLATE="assets/data/base/%s"; //json中的保存目标路径
-    private static final String FILE_DIR_TEMPLATE="assets/data/base/%s";//当前文件路径
-    private static final String FILE_DIR="assets/data/base";//当前文件路径
+    private static final String JSON_PATH_TEMPLATE = "assets/data/default/BaseData.json";
+    private static final String AIM_DIR_TEMPLATE = "assets/data/base/%s"; //json中的保存目标路径
+    private static final String FILE_DIR_TEMPLATE = "assets/data/base/%s";//当前文件路径
+    private static final String FILE_DIR = "assets/data/base";//当前文件路径
+
     public static void main(String[] args) throws IOException {
         init();
     }
@@ -30,27 +31,27 @@ public class BaseData2Json {
         save();
     }
 
-    private static void save() throws IOException{
+    private static void save() throws IOException {
         Map<String, Resource> map = new LinkedHashMap<>();
         File dir = new File(FILE_DIR);
         File[] jsons = dir.listFiles();
         for (File json : jsons) {
             String suffix = FileUtil.getSuffix(json);
-            if (suffix!= null){
-                if (suffix.equals("json")){
+            if (suffix != null) {
+                if (suffix.equals("json")) {
                     String md5 = DigestUtil.md5Hex(json);
                     String name = FileUtil.mainName(json);
                     String filename = URLUtil.encode(json.getName());
                     String filePath = String.format(FILE_DIR_TEMPLATE, filename);
                     String aimPath = String.format(AIM_DIR_TEMPLATE, json.getName());
-                    map.put(name,new Resource(json.getName(),filePath,aimPath,md5));
-                }else {
-                    System.err.println(json.getName()+"非JSON文件");
+                    map.put(name, new Resource(json.getName(), filePath, aimPath, md5));
+                } else {
+                    System.err.println(json.getName() + "非JSON文件");
                 }
             }
 
         }
         ObjectMapper mapper = new ObjectMapper();
-        mapper.writerWithDefaultPrettyPrinter().writeValue(new File(JSON_PATH_TEMPLATE),map);
+        mapper.writerWithDefaultPrettyPrinter().writeValue(new File(JSON_PATH_TEMPLATE), map);
     }
 }

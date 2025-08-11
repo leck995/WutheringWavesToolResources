@@ -1,4 +1,4 @@
-package cn.tealc.game;
+package cn.tealc.game.roleweight;
 
 import cn.tealc.game.model.RoleBaseData;
 import com.fasterxml.jackson.databind.JsonNode;
@@ -20,7 +20,7 @@ import java.util.*;
 
 /**
  * @program: WutheringWavesToolResources
- * @description: 用于角色id与各语言名字获取，下载图像。同步hakush
+ * @description: 同步hakush,用于角色id与各语言名字获取，下载图像。
  * @author: Leck
  * @create: 2024-10-22 16:41
  */
