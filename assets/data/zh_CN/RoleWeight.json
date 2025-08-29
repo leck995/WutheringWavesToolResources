@@ -47,6 +47,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/夏空.json",
     "md5" : "b6d142ae5f0b984e17701f49c9b56caa"
   },
+  "奥古斯塔" : {
+    "name" : "奥古斯塔.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%A5%A5%E5%8F%A4%E6%96%AF%E5%A1%94.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/奥古斯塔.json",
+    "md5" : "e726ffdc13bfe21fc116a64f764d67d9"
+  },
   "守岸人" : {
     "name" : "守岸人.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E5%AE%88%E5%B2%B8%E4%BA%BA.json",
