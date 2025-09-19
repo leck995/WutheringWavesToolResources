@@ -65,6 +65,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/安可.json",
     "md5" : "89bb3911a1af4420a20e8dee7d12184b"
   },
+  "尤诺" : {
+    "name" : "尤诺.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%B0%A4%E8%AF%BA.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/尤诺.json",
+    "md5" : "672fc5049b486da6528140e8fe91c82d"
+  },
   "布兰特" : {
     "name" : "布兰特.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E5%B8%83%E5%85%B0%E7%89%B9.json",
