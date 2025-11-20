@@ -24,14 +24,15 @@ public class ReleaseCreateUtil {
     }
 
     private static Release latestRelease(){
-        String latestVersion = "1.3.1";
-        String latestName = "正式版1.3.1";
+        String latestVersion = "1.3.3";
+        String latestName = "正式版1.3.3";
         String latestDescription = """
                 若无法自动更新，检查是否通过“WutheringWavesTool.exe”启动助手，仍无法解决请前往发布页或者助手群手动下载更新。
                 
-                V1.3.1更新
-                1. 修复库街区登录状态异常的问题
-                2. 其他修复与优化
+                V1.3.3更新
+                1. 重新设计窗口装饰，可自由拖动与响应系统事件
+                2. 修复角色查看数据不刷新的问题
+                3. 其他修复与优化
 
                 """;
         boolean latestForce = false; //是否是强制更新
@@ -39,13 +40,13 @@ public class ReleaseCreateUtil {
         Date date = new Date(System.currentTimeMillis());
         String dateTime = format.format(date);
 
-        File latestFile = new File("E:\\新建文件夹\\鸣潮发布\\WutheringWavesTool-windows-x64-1.3.1.zip");
+        File latestFile = new File("E:\\新建文件夹\\鸣潮发布\\WutheringWavesTool-windows-x64-1.3.3.zip");
         String latestMd5 = DigestUtil.md5Hex(latestFile);
 
 
         //https://api.github.com/repos/leck995/WutheringWavesTool/releases/latest
         //如果有github,则第一个放github下载链接
-        String[] latestUrls = {"https://wwt.tealc.fun/WutheringWavesTool-windows-x64-1.3.1.zip"};
+        String[] latestUrls = {"https://wwt.tealc.fun/WutheringWavesTool-windows-x64-1.3.3.zip"};
         String warning = "更新警告";//强制更新警告
 
         boolean isPre = false;

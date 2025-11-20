@@ -3,9 +3,9 @@
     "roleId" : 1408,
     "names" : {
       "zh_CN" : "漂泊者·气动",
-      "ko_KR" : "방랑자 · 기류",
+      "ja" : "漂泊者・気動",
       "en" : "Rover: Aero",
-      "ja" : "漂泊者・気動"
+      "ko_KR" : "방랑자 · 기류"
     },
     "icon" : "1408.png"
   },
@@ -13,9 +13,9 @@
     "roleId" : 1409,
     "names" : {
       "zh_CN" : "卡提希娅",
-      "ko_KR" : "카르티시아",
+      "ja" : "カルテジア",
       "en" : "Cartethyia",
-      "ja" : "カルテジア"
+      "ko_KR" : "카르티시아"
     },
     "icon" : "1409.png"
   },
@@ -23,9 +23,9 @@
     "roleId" : 1601,
     "names" : {
       "zh_CN" : "桃祈",
-      "ko_KR" : "도기",
+      "ja" : "桃祈",
       "en" : "Taoqi",
-      "ja" : "桃祈"
+      "ko_KR" : "도기"
     },
     "icon" : "1601.png"
   },
@@ -33,9 +33,9 @@
     "roleId" : 1410,
     "names" : {
       "zh_CN" : "尤诺",
-      "ko_KR" : "유노",
+      "ja" : "ユーノ",
       "en" : "Iuno",
-      "ja" : "ユーノ"
+      "ko_KR" : "유노"
     },
     "icon" : "1410.png"
   },
@@ -43,9 +43,9 @@
     "roleId" : 1602,
     "names" : {
       "zh_CN" : "丹瑾",
-      "ko_KR" : "단근",
+      "ja" : "丹瑾",
       "en" : "Danjin",
-      "ja" : "丹瑾"
+      "ko_KR" : "단근"
     },
     "icon" : "1602.png"
   },
@@ -53,9 +53,9 @@
     "roleId" : 1411,
     "names" : {
       "zh_CN" : "仇远",
-      "ko_KR" : "구원",
+      "ja" : "仇遠",
       "en" : "Qiuyuan",
-      "ja" : "仇遠"
+      "ko_KR" : "구원"
     },
     "icon" : "1411.png"
   },
@@ -63,9 +63,9 @@
     "roleId" : 1603,
     "names" : {
       "zh_CN" : "椿",
-      "ko_KR" : "카멜리아",
+      "ja" : "ツバキ",
       "en" : "Camellya",
-      "ja" : "ツバキ"
+      "ko_KR" : "카멜리아"
     },
     "icon" : "1603.png"
   },
@@ -73,9 +73,9 @@
     "roleId" : 1604,
     "names" : {
       "zh_CN" : "漂泊者·湮灭",
-      "ko_KR" : "방랑자 · 인멸",
+      "ja" : "漂泊者・消滅",
       "en" : "Rover: Havoc",
-      "ja" : "漂泊者・消滅"
+      "ko_KR" : "방랑자 · 인멸"
     },
     "icon" : "1604.png"
   },
@@ -83,9 +83,9 @@
     "roleId" : 1605,
     "names" : {
       "zh_CN" : "漂泊者·湮灭",
-      "ko_KR" : "방랑자 · 인멸",
+      "ja" : "漂泊者・消滅",
       "en" : "Rover: Havoc",
-      "ja" : "漂泊者・消滅"
+      "ko_KR" : "방랑자 · 인멸"
     },
     "icon" : "1605.png"
   },
@@ -93,9 +93,9 @@
     "roleId" : 1606,
     "names" : {
       "zh_CN" : "洛可可",
-      "ko_KR" : "로코코",
+      "ja" : "ロココ",
       "en" : "Roccia",
-      "ja" : "ロココ"
+      "ko_KR" : "로코코"
     },
     "icon" : "1606.png"
   },
@@ -103,9 +103,9 @@
     "roleId" : 1607,
     "names" : {
       "zh_CN" : "坎特蕾拉",
-      "ko_KR" : "칸타렐라",
+      "ja" : "カンタレラ",
       "en" : "Cantarella",
-      "ja" : "カンタレラ"
+      "ko_KR" : "칸타렐라"
     },
     "icon" : "1607.png"
   },
@@ -113,9 +113,9 @@
     "roleId" : 1608,
     "names" : {
       "zh_CN" : "弗洛洛",
-      "ko_KR" : "플로로",
+      "ja" : "フローヴァ",
       "en" : "Phrolova",
-      "ja" : "フローヴァ"
+      "ko_KR" : "플로로"
     },
     "icon" : "1608.png"
   },
@@ -123,9 +123,9 @@
     "roleId" : 1102,
     "names" : {
       "zh_CN" : "散华",
-      "ko_KR" : "산화",
+      "ja" : "散華",
       "en" : "Sanhua",
-      "ja" : "散華"
+      "ko_KR" : "산화"
     },
     "icon" : "1102.png"
   },
@@ -133,9 +133,9 @@
     "roleId" : 1103,
     "names" : {
       "zh_CN" : "白芷",
-      "ko_KR" : "설지",
+      "ja" : "白芷",
       "en" : "Baizhi",
-      "ja" : "白芷"
+      "ko_KR" : "설지"
     },
     "icon" : "1103.png"
   },
@@ -143,9 +143,9 @@
     "roleId" : 1104,
     "names" : {
       "zh_CN" : "凌阳",
-      "ko_KR" : "능양",
+      "ja" : "凌陽",
       "en" : "Lingyang",
-      "ja" : "凌陽"
+      "ko_KR" : "능양"
     },
     "icon" : "1104.png"
   },
@@ -153,9 +153,9 @@
     "roleId" : 1105,
     "names" : {
       "zh_CN" : "折枝",
-      "ko_KR" : "절지",
+      "ja" : "折枝",
       "en" : "Zhezhi",
-      "ja" : "折枝"
+      "ko_KR" : "절지"
     },
     "icon" : "1105.png"
   },
@@ -163,9 +163,9 @@
     "roleId" : 1106,
     "names" : {
       "zh_CN" : "釉瑚",
-      "ko_KR" : "유호",
+      "ja" : "釉瑚",
       "en" : "Youhu",
-      "ja" : "釉瑚"
+      "ko_KR" : "유호"
     },
     "icon" : "1106.png"
   },
@@ -173,9 +173,9 @@
     "roleId" : 1107,
     "names" : {
       "zh_CN" : "珂莱塔",
-      "ko_KR" : "카를로타",
+      "ja" : "カルロッタ",
       "en" : "Carlotta",
-      "ja" : "カルロッタ"
+      "ko_KR" : "카를로타"
     },
     "icon" : "1107.png"
   },
@@ -183,9 +183,9 @@
     "roleId" : 1301,
     "names" : {
       "zh_CN" : "卡卡罗",
-      "ko_KR" : "카카루",
+      "ja" : "カカロ",
       "en" : "Calcharo",
-      "ja" : "カカロ"
+      "ko_KR" : "카카루"
     },
     "icon" : "1301.png"
   },
@@ -193,9 +193,9 @@
     "roleId" : 1302,
     "names" : {
       "zh_CN" : "吟霖",
-      "ko_KR" : "음림",
+      "ja" : "吟霖",
       "en" : "Yinlin",
-      "ja" : "吟霖"
+      "ko_KR" : "음림"
     },
     "icon" : "1302.png"
   },
@@ -203,9 +203,9 @@
     "roleId" : 1303,
     "names" : {
       "zh_CN" : "渊武",
-      "ko_KR" : "연무",
+      "ja" : "淵武",
       "en" : "Yuanwu",
-      "ja" : "淵武"
+      "ko_KR" : "연무"
     },
     "icon" : "1303.png"
   },
@@ -213,9 +213,9 @@
     "roleId" : 1304,
     "names" : {
       "zh_CN" : "今汐",
-      "ko_KR" : "금희",
+      "ja" : "今汐",
       "en" : "Jinhsi",
-      "ja" : "今汐"
+      "ko_KR" : "금희"
     },
     "icon" : "1304.png"
   },
@@ -223,9 +223,9 @@
     "roleId" : 1305,
     "names" : {
       "zh_CN" : "相里要",
-      "ko_KR" : "상리요",
+      "ja" : "相里要",
       "en" : "Xiangli Yao",
-      "ja" : "相里要"
+      "ko_KR" : "상리요"
     },
     "icon" : "1305.png"
   },
@@ -233,19 +233,29 @@
     "roleId" : 1306,
     "names" : {
       "zh_CN" : "奥古斯塔",
-      "ko_KR" : "아우구스타",
+      "ja" : "オーガスタ",
       "en" : "Augusta",
-      "ja" : "オーガスタ"
+      "ko_KR" : "아우구스타"
     },
     "icon" : "1306.png"
+  },
+  "1307" : {
+    "roleId" : 1307,
+    "names" : {
+      "zh_CN" : "卜灵",
+      "ja" : "卜霊",
+      "en" : "Buling",
+      "ko_KR" : "복링"
+    },
+    "icon" : "1307.png"
   },
   "1501" : {
     "roleId" : 1501,
     "names" : {
       "zh_CN" : "漂泊者·衍射",
-      "ko_KR" : "방랑자 · 회절",
+      "ja" : "漂泊者・回折",
       "en" : "Rover: Spectro",
-      "ja" : "漂泊者・回折"
+      "ko_KR" : "방랑자 · 회절"
     },
     "icon" : "1501.png"
   },
@@ -253,9 +263,9 @@
     "roleId" : 1502,
     "names" : {
       "zh_CN" : "漂泊者·衍射",
-      "ko_KR" : "방랑자",
+      "ja" : "漂泊者・回折",
       "en" : "Rover: Spectro",
-      "ja" : "漂泊者・回折"
+      "ko_KR" : "방랑자"
     },
     "icon" : "1502.png"
   },
@@ -263,9 +273,9 @@
     "roleId" : 1503,
     "names" : {
       "zh_CN" : "维里奈",
-      "ko_KR" : "벨리나",
+      "ja" : "ヴェリーナ",
       "en" : "Verina",
-      "ja" : "ヴェリーナ"
+      "ko_KR" : "벨리나"
     },
     "icon" : "1503.png"
   },
@@ -273,9 +283,9 @@
     "roleId" : 1504,
     "names" : {
       "zh_CN" : "灯灯",
-      "ko_KR" : "루미",
+      "ja" : "灯灯",
       "en" : "Lumi",
-      "ja" : "灯灯"
+      "ko_KR" : "루미"
     },
     "icon" : "1504.png"
   },
@@ -283,9 +293,9 @@
     "roleId" : 1505,
     "names" : {
       "zh_CN" : "守岸人",
-      "ko_KR" : "파수인",
+      "ja" : "ショアキーパー",
       "en" : "Shorekeeper",
-      "ja" : "ショアキーパー"
+      "ko_KR" : "파수인"
     },
     "icon" : "1505.png"
   },
@@ -293,9 +303,9 @@
     "roleId" : 1506,
     "names" : {
       "zh_CN" : "菲比",
-      "ko_KR" : "페비",
+      "ja" : "フィービー",
       "en" : "Phoebe",
-      "ja" : "フィービー"
+      "ko_KR" : "페비"
     },
     "icon" : "1506.png"
   },
@@ -303,19 +313,29 @@
     "roleId" : 1507,
     "names" : {
       "zh_CN" : "赞妮",
-      "ko_KR" : "젠니",
+      "ja" : "ザンニー",
       "en" : "Zani",
-      "ja" : "ザンニー"
+      "ko_KR" : "젠니"
     },
     "icon" : "1507.png"
+  },
+  "1508" : {
+    "roleId" : 1508,
+    "names" : {
+      "zh_CN" : "千咲",
+      "ja" : "千咲",
+      "en" : "Chisa",
+      "ko_KR" : "치사"
+    },
+    "icon" : "1508.png"
   },
   "1202" : {
     "roleId" : 1202,
     "names" : {
       "zh_CN" : "炽霞",
-      "ko_KR" : "치샤",
+      "ja" : "熾霞",
       "en" : "Chixia",
-      "ja" : "熾霞"
+      "ko_KR" : "치샤"
     },
     "icon" : "1202.png"
   },
@@ -323,9 +343,9 @@
     "roleId" : 1203,
     "names" : {
       "zh_CN" : "安可",
-      "ko_KR" : "앙코",
+      "ja" : "アンコ",
       "en" : "Encore",
-      "ja" : "アンコ"
+      "ko_KR" : "앙코"
     },
     "icon" : "1203.png"
   },
@@ -333,9 +353,9 @@
     "roleId" : 1204,
     "names" : {
       "zh_CN" : "莫特斐",
-      "ko_KR" : "모르테피",
+      "ja" : "モルトフィー",
       "en" : "Mortefi",
-      "ja" : "モルトフィー"
+      "ko_KR" : "모르테피"
     },
     "icon" : "1204.png"
   },
@@ -343,9 +363,9 @@
     "roleId" : 1205,
     "names" : {
       "zh_CN" : "长离",
-      "ko_KR" : "장리",
+      "ja" : "長離",
       "en" : "Changli",
-      "ja" : "長離"
+      "ko_KR" : "장리"
     },
     "icon" : "1205.png"
   },
@@ -353,9 +373,9 @@
     "roleId" : 1206,
     "names" : {
       "zh_CN" : "布兰特",
-      "ko_KR" : "브렌트",
+      "ja" : "ブラント",
       "en" : "Brant",
-      "ja" : "ブラント"
+      "ko_KR" : "브렌트"
     },
     "icon" : "1206.png"
   },
@@ -363,9 +383,9 @@
     "roleId" : 1207,
     "names" : {
       "zh_CN" : "露帕",
-      "ko_KR" : "루파",
+      "ja" : "ルパ",
       "en" : "Lupa",
-      "ja" : "ルパ"
+      "ko_KR" : "루파"
     },
     "icon" : "1207.png"
   },
@@ -373,9 +393,9 @@
     "roleId" : 1208,
     "names" : {
       "zh_CN" : "嘉贝莉娜",
-      "ko_KR" : "갈브레나",
+      "ja" : "ガルブレーナ",
       "en" : "Galbrena",
-      "ja" : "ガルブレーナ"
+      "ko_KR" : "갈브레나"
     },
     "icon" : "1208.png"
   },
@@ -383,9 +403,9 @@
     "roleId" : 1402,
     "names" : {
       "zh_CN" : "秧秧",
-      "ko_KR" : "양양",
+      "ja" : "秧秧",
       "en" : "Yangyang",
-      "ja" : "秧秧"
+      "ko_KR" : "양양"
     },
     "icon" : "1402.png"
   },
@@ -393,9 +413,9 @@
     "roleId" : 1403,
     "names" : {
       "zh_CN" : "秋水",
-      "ko_KR" : "알토",
+      "ja" : "アールト",
       "en" : "Aalto",
-      "ja" : "アールト"
+      "ko_KR" : "알토"
     },
     "icon" : "1403.png"
   },
@@ -403,9 +423,9 @@
     "roleId" : 1404,
     "names" : {
       "zh_CN" : "忌炎",
-      "ko_KR" : "기염",
+      "ja" : "忌炎",
       "en" : "Jiyan",
-      "ja" : "忌炎"
+      "ko_KR" : "기염"
     },
     "icon" : "1404.png"
   },
@@ -413,9 +433,9 @@
     "roleId" : 1405,
     "names" : {
       "zh_CN" : "鉴心",
-      "ko_KR" : "감심",
+      "ja" : "鑑心",
       "en" : "Jianxin",
-      "ja" : "鑑心"
+      "ko_KR" : "감심"
     },
     "icon" : "1405.png"
   },
@@ -423,9 +443,9 @@
     "roleId" : 1406,
     "names" : {
       "zh_CN" : "漂泊者·气动",
-      "ko_KR" : "방랑자 · 기류",
+      "ja" : "漂泊者・気動",
       "en" : "Rover: Aero",
-      "ja" : "漂泊者・気動"
+      "ko_KR" : "방랑자 · 기류"
     },
     "icon" : "1406.png"
   },
@@ -433,9 +453,9 @@
     "roleId" : 1407,
     "names" : {
       "zh_CN" : "夏空",
-      "ko_KR" : "샤콘",
+      "ja" : "シャコンヌ",
       "en" : "Ciaccona",
-      "ja" : "シャコンヌ"
+      "ko_KR" : "샤콘"
     },
     "icon" : "1407.png"
   }

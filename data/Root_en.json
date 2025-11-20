@@ -1,17 +1,17 @@
 {
-  "version" : "1.2.6",
+  "version" : "1.2.7",
   "resources" : {
     "BaseData" : {
       "name" : "BaseData.json",
       "filePath" : "assets/data/default/BaseData.json",
       "aimPath" : "assets/data/default/BaseData.json",
-      "md5" : "b9d4cdf749595b46c0237cd95612099e"
+      "md5" : "de03c22bfcba50ff8eb7db346a36dc28"
     },
     "RoleHeader" : {
       "name" : "RoleHeader.json",
       "filePath" : "assets/data/default/RoleHeader.json",
       "aimPath" : "assets/data/default/RoleHeader.json",
-      "md5" : "af1f20088f8949df90e92c26f2165ff5"
+      "md5" : "9189541684bbf447389f7ffcaa6a5fca"
     }
   }
 }

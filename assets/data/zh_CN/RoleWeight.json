@@ -5,6 +5,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/丹瑾.json",
     "md5" : "75734da133942e94477f43f617b3a993"
   },
+  "仇远" : {
+    "name" : "仇远.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E4%BB%87%E8%BF%9C.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/仇远.json",
+    "md5" : "bafd9780db8c294e24c9f49fe92e4be4"
+  },
   "今汐" : {
     "name" : "今汐.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E4%BB%8A%E6%B1%90.json",
