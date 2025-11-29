@@ -23,6 +23,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/凌阳.json",
     "md5" : "28d3d8fda71ae428756231d65eabf571"
   },
+  "千咲" : {
+    "name" : "千咲.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%8D%83%E5%92%B2.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/千咲.json",
+    "md5" : "ec5e38890114f7514a246d96d3b49a5f"
+  },
   "卡卡罗" : {
     "name" : "卡卡罗.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E5%8D%A1%E5%8D%A1%E7%BD%97.json",
