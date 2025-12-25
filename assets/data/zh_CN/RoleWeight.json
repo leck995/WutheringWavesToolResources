@@ -29,6 +29,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/千咲.json",
     "md5" : "ec5e38890114f7514a246d96d3b49a5f"
   },
+  "卜灵" : {
+    "name" : "卜灵.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%8D%9C%E7%81%B5.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/卜灵.json",
+    "md5" : "0b4adaa5a8d1a01ae6348fc8048cec6e"
+  },
   "卡卡罗" : {
     "name" : "卡卡罗.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E5%8D%A1%E5%8D%A1%E7%BD%97.json",
@@ -178,6 +184,12 @@
     "filePath" : "assets/data/zh_CN/weight/default/%E7%8F%82%E8%8E%B1%E5%A1%94.json",
     "aimPath" : "assets/data/zh_CN/weight/default/珂莱塔.json",
     "md5" : "cadaa0ed4b73e1ff8f2eade2135387a1"
+  },
+  "琳奈" : {
+    "name" : "琳奈.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E7%90%B3%E5%A5%88.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/琳奈.json",
+    "md5" : "bf946ba54c558f92afc06be19d449487"
   },
   "白芷" : {
     "name" : "白芷.json",
