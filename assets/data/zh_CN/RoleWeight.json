@@ -221,6 +221,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/维里奈.json",
     "md5" : "be2cdbaa6e77a990ba5cbf37bda5d9a9"
   },
+  "莫宁" : {
+    "name" : "莫宁.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E8%8E%AB%E5%AE%81.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/莫宁.json",
+    "md5" : "8a083089fa84f52a711a0088d4b1d2d6"
+  },
   "莫特斐" : {
     "name" : "莫特斐.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E8%8E%AB%E7%89%B9%E6%96%90.json",
