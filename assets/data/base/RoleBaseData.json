@@ -19,16 +19,6 @@
     },
     "icon" : "1409.png"
   },
-  "1601" : {
-    "roleId" : 1601,
-    "names" : {
-      "zh_CN" : "桃祈",
-      "ja" : "桃祈",
-      "en" : "Taoqi",
-      "ko_KR" : "도기"
-    },
-    "icon" : "1601.png"
-  },
   "1410" : {
     "roleId" : 1410,
     "names" : {
@@ -39,16 +29,6 @@
     },
     "icon" : "1410.png"
   },
-  "1602" : {
-    "roleId" : 1602,
-    "names" : {
-      "zh_CN" : "丹瑾",
-      "ja" : "丹瑾",
-      "en" : "Danjin",
-      "ko_KR" : "단근"
-    },
-    "icon" : "1602.png"
-  },
   "1411" : {
     "roleId" : 1411,
     "names" : {
@@ -58,6 +38,186 @@
       "ko_KR" : "구원"
     },
     "icon" : "1411.png"
+  },
+  "1301" : {
+    "roleId" : 1301,
+    "names" : {
+      "zh_CN" : "卡卡罗",
+      "ja" : "カカロ",
+      "en" : "Calcharo",
+      "ko_KR" : "카카루"
+    },
+    "icon" : "1301.png"
+  },
+  "1302" : {
+    "roleId" : 1302,
+    "names" : {
+      "zh_CN" : "吟霖",
+      "ja" : "吟霖",
+      "en" : "Yinlin",
+      "ko_KR" : "음림"
+    },
+    "icon" : "1302.png"
+  },
+  "1303" : {
+    "roleId" : 1303,
+    "names" : {
+      "zh_CN" : "渊武",
+      "ja" : "淵武",
+      "en" : "Yuanwu",
+      "ko_KR" : "연무"
+    },
+    "icon" : "1303.png"
+  },
+  "1304" : {
+    "roleId" : 1304,
+    "names" : {
+      "zh_CN" : "今汐",
+      "ja" : "今汐",
+      "en" : "Jinhsi",
+      "ko_KR" : "금희"
+    },
+    "icon" : "1304.png"
+  },
+  "1305" : {
+    "roleId" : 1305,
+    "names" : {
+      "zh_CN" : "相里要",
+      "ja" : "相里要",
+      "en" : "Xiangli Yao",
+      "ko_KR" : "상리요"
+    },
+    "icon" : "1305.png"
+  },
+  "1306" : {
+    "roleId" : 1306,
+    "names" : {
+      "zh_CN" : "奥古斯塔",
+      "ja" : "オーガスタ",
+      "en" : "Augusta",
+      "ko_KR" : "아우구스타"
+    },
+    "icon" : "1306.png"
+  },
+  "1307" : {
+    "roleId" : 1307,
+    "names" : {
+      "zh_CN" : "卜灵",
+      "ja" : "卜霊",
+      "en" : "Buling",
+      "ko_KR" : "복링"
+    },
+    "icon" : "1307.png"
+  },
+  "1202" : {
+    "roleId" : 1202,
+    "names" : {
+      "zh_CN" : "炽霞",
+      "ja" : "熾霞",
+      "en" : "Chixia",
+      "ko_KR" : "치샤"
+    },
+    "icon" : "1202.png"
+  },
+  "1203" : {
+    "roleId" : 1203,
+    "names" : {
+      "zh_CN" : "安可",
+      "ja" : "アンコ",
+      "en" : "Encore",
+      "ko_KR" : "앙코"
+    },
+    "icon" : "1203.png"
+  },
+  "1204" : {
+    "roleId" : 1204,
+    "names" : {
+      "zh_CN" : "莫特斐",
+      "ja" : "モルトフィー",
+      "en" : "Mortefi",
+      "ko_KR" : "모르테피"
+    },
+    "icon" : "1204.png"
+  },
+  "1205" : {
+    "roleId" : 1205,
+    "names" : {
+      "zh_CN" : "长离",
+      "ja" : "長離",
+      "en" : "Changli",
+      "ko_KR" : "장리"
+    },
+    "icon" : "1205.png"
+  },
+  "1206" : {
+    "roleId" : 1206,
+    "names" : {
+      "zh_CN" : "布兰特",
+      "ja" : "ブラント",
+      "en" : "Brant",
+      "ko_KR" : "브렌트"
+    },
+    "icon" : "1206.png"
+  },
+  "1207" : {
+    "roleId" : 1207,
+    "names" : {
+      "zh_CN" : "露帕",
+      "ja" : "ルパ",
+      "en" : "Lupa",
+      "ko_KR" : "루파"
+    },
+    "icon" : "1207.png"
+  },
+  "1208" : {
+    "roleId" : 1208,
+    "names" : {
+      "zh_CN" : "嘉贝莉娜",
+      "ja" : "ガルブレーナ",
+      "en" : "Galbrena",
+      "ko_KR" : "갈브레나"
+    },
+    "icon" : "1208.png"
+  },
+  "1209" : {
+    "roleId" : 1209,
+    "names" : {
+      "zh_CN" : "莫宁",
+      "ja" : "モーニエ",
+      "en" : "Mornye",
+      "ko_KR" : "모니에"
+    },
+    "icon" : "1209.png"
+  },
+  "1210" : {
+    "roleId" : 1210,
+    "names" : {
+      "zh_CN" : "爱弥斯",
+      "ja" : "エイメス",
+      "en" : "Aemeath",
+      "ko_KR" : "에이메스"
+    },
+    "icon" : "1210.png"
+  },
+  "1601" : {
+    "roleId" : 1601,
+    "names" : {
+      "zh_CN" : "桃祈",
+      "ja" : "桃祈",
+      "en" : "Taoqi",
+      "ko_KR" : "도기"
+    },
+    "icon" : "1601.png"
+  },
+  "1602" : {
+    "roleId" : 1602,
+    "names" : {
+      "zh_CN" : "丹瑾",
+      "ja" : "丹瑾",
+      "en" : "Danjin",
+      "ko_KR" : "단근"
+    },
+    "icon" : "1602.png"
   },
   "1603" : {
     "roleId" : 1603,
@@ -179,76 +339,6 @@
     },
     "icon" : "1107.png"
   },
-  "1301" : {
-    "roleId" : 1301,
-    "names" : {
-      "zh_CN" : "卡卡罗",
-      "ja" : "カカロ",
-      "en" : "Calcharo",
-      "ko_KR" : "카카루"
-    },
-    "icon" : "1301.png"
-  },
-  "1302" : {
-    "roleId" : 1302,
-    "names" : {
-      "zh_CN" : "吟霖",
-      "ja" : "吟霖",
-      "en" : "Yinlin",
-      "ko_KR" : "음림"
-    },
-    "icon" : "1302.png"
-  },
-  "1303" : {
-    "roleId" : 1303,
-    "names" : {
-      "zh_CN" : "渊武",
-      "ja" : "淵武",
-      "en" : "Yuanwu",
-      "ko_KR" : "연무"
-    },
-    "icon" : "1303.png"
-  },
-  "1304" : {
-    "roleId" : 1304,
-    "names" : {
-      "zh_CN" : "今汐",
-      "ja" : "今汐",
-      "en" : "Jinhsi",
-      "ko_KR" : "금희"
-    },
-    "icon" : "1304.png"
-  },
-  "1305" : {
-    "roleId" : 1305,
-    "names" : {
-      "zh_CN" : "相里要",
-      "ja" : "相里要",
-      "en" : "Xiangli Yao",
-      "ko_KR" : "상리요"
-    },
-    "icon" : "1305.png"
-  },
-  "1306" : {
-    "roleId" : 1306,
-    "names" : {
-      "zh_CN" : "奥古斯塔",
-      "ja" : "オーガスタ",
-      "en" : "Augusta",
-      "ko_KR" : "아우구스타"
-    },
-    "icon" : "1306.png"
-  },
-  "1307" : {
-    "roleId" : 1307,
-    "names" : {
-      "zh_CN" : "卜灵",
-      "ja" : "卜霊",
-      "en" : "Buling",
-      "ko_KR" : "복링"
-    },
-    "icon" : "1307.png"
-  },
   "1501" : {
     "roleId" : 1501,
     "names" : {
@@ -339,85 +429,15 @@
     },
     "icon" : "1509.png"
   },
-  "1202" : {
-    "roleId" : 1202,
+  "1510" : {
+    "roleId" : 1510,
     "names" : {
-      "zh_CN" : "炽霞",
-      "ja" : "熾霞",
-      "en" : "Chixia",
-      "ko_KR" : "치샤"
+      "zh_CN" : "陆·赫斯",
+      "ja" : "リューク・ヘルセン",
+      "en" : "Luuk Herssen",
+      "ko_KR" : "루크 · 헤르센"
     },
-    "icon" : "1202.png"
-  },
-  "1203" : {
-    "roleId" : 1203,
-    "names" : {
-      "zh_CN" : "安可",
-      "ja" : "アンコ",
-      "en" : "Encore",
-      "ko_KR" : "앙코"
-    },
-    "icon" : "1203.png"
-  },
-  "1204" : {
-    "roleId" : 1204,
-    "names" : {
-      "zh_CN" : "莫特斐",
-      "ja" : "モルトフィー",
-      "en" : "Mortefi",
-      "ko_KR" : "모르테피"
-    },
-    "icon" : "1204.png"
-  },
-  "1205" : {
-    "roleId" : 1205,
-    "names" : {
-      "zh_CN" : "长离",
-      "ja" : "長離",
-      "en" : "Changli",
-      "ko_KR" : "장리"
-    },
-    "icon" : "1205.png"
-  },
-  "1206" : {
-    "roleId" : 1206,
-    "names" : {
-      "zh_CN" : "布兰特",
-      "ja" : "ブラント",
-      "en" : "Brant",
-      "ko_KR" : "브렌트"
-    },
-    "icon" : "1206.png"
-  },
-  "1207" : {
-    "roleId" : 1207,
-    "names" : {
-      "zh_CN" : "露帕",
-      "ja" : "ルパ",
-      "en" : "Lupa",
-      "ko_KR" : "루파"
-    },
-    "icon" : "1207.png"
-  },
-  "1208" : {
-    "roleId" : 1208,
-    "names" : {
-      "zh_CN" : "嘉贝莉娜",
-      "ja" : "ガルブレーナ",
-      "en" : "Galbrena",
-      "ko_KR" : "갈브레나"
-    },
-    "icon" : "1208.png"
-  },
-  "1209" : {
-    "roleId" : 1209,
-    "names" : {
-      "zh_CN" : "莫宁",
-      "ja" : "モーニエ",
-      "en" : "Mornye",
-      "ko_KR" : "모니에"
-    },
-    "icon" : "1209.png"
+    "icon" : "1510.png"
   },
   "1402" : {
     "roleId" : 1402,
