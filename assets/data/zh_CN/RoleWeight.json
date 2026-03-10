@@ -179,6 +179,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/炽霞.json",
     "md5" : "b37cc74697f9dea59cb532f269e722b4"
   },
+  "爱弥斯" : {
+    "name" : "爱弥斯.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E7%88%B1%E5%BC%A5%E6%96%AF.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/爱弥斯.json",
+    "md5" : "7e2eb60380020678de7434f7980807c5"
+  },
   "珂莱塔" : {
     "name" : "珂莱塔.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E7%8F%82%E8%8E%B1%E5%A1%94.json",
@@ -262,6 +268,12 @@
     "filePath" : "assets/data/zh_CN/weight/default/%E9%95%BF%E7%A6%BB.json",
     "aimPath" : "assets/data/zh_CN/weight/default/长离.json",
     "md5" : "2addc86c7d3b7b2dc27d47f2c33d71d9"
+  },
+  "陆·赫斯" : {
+    "name" : "陆·赫斯.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E9%99%86%C2%B7%E8%B5%AB%E6%96%AF.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/陆·赫斯.json",
+    "md5" : "9aa44e9b350bf1df768cc14f4aab2a46"
   },
   "露帕" : {
     "name" : "露帕.json",
