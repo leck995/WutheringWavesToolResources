@@ -1,4 +1,4 @@
-package cn.tealc.game.zh_CN;
+package cn.tealc.game.roleweight.zh_CN;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.util.URLUtil;

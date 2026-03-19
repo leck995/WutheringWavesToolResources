@@ -245,6 +245,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/菲比.json",
     "md5" : "7fadfb50287c86e6feeeb861ec11da6c"
   },
+  "西格莉卡" : {
+    "name" : "西格莉卡.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E8%A5%BF%E6%A0%BC%E8%8E%89%E5%8D%A1.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/西格莉卡.json",
+    "md5" : "616d98ed7e5d8d454c54f82d58093a47"
+  },
   "赞妮" : {
     "name" : "赞妮.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E8%B5%9E%E5%A6%AE.json",

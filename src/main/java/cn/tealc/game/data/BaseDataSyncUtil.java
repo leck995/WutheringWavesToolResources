@@ -1,4 +1,4 @@
-package cn.tealc.game.roleweight;
+package cn.tealc.game.data;
 
 import cn.tealc.game.model.RoleBaseData;
 import com.fasterxml.jackson.databind.JsonNode;
@@ -24,6 +24,7 @@ import java.util.*;
  * @author: Leck
  * @create: 2024-10-22 16:41
  */
+@Deprecated
 public class BaseDataSyncUtil {
     //private static final String filepath="assets/data/RoleBaseData.json";
 

@@ -1,4 +1,4 @@
-package cn.tealc.game.roleweight;
+package cn.tealc.game.data;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.util.URLUtil;
@@ -17,7 +17,7 @@ import java.util.Map;
  * @author: Leck
  * @create: 2024-10-22 20:22
  */
-public class BaseHeader2Json {
+public class RoleWeaponHeaderImage2Json {
     private static final String JSON_PATH_TEMPLATE="assets/data/default/RoleHeader.json";
     private static final String AIM_DIR_TEMPLATE="assets/header/%s"; //json中的保存目标路径
     private static final String FILE_DIR_TEMPLATE="assets/header/%s";//当前文件路径

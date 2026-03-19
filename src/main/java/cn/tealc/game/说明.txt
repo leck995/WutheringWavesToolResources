@@ -1,7 +1,7 @@
 /*
- * 第一步：执行BaseDataSyncUtil，同步数据
- * 第二步：执行BaseHeader2Json，计算图片的MD5，以及汇总到Json
- * 第三步：执行BaseData2Json，将角色与武器数据的Json文本计算MD5,并汇总到Json
+ * 第一步：RoleWeaponDataSyncUtil，同步数据
+ * 第二步：RoleWeaponHeaderImage2Json，计算图片的MD5，以及汇总到Json
+ * 第三步：RoleWeaponDataInfo2Json，将角色与武器数据的Json文本计算MD5,并汇总到Json
  * 第四步：执行RootResouceUtil，进一步汇总到Json
  *
  * */
