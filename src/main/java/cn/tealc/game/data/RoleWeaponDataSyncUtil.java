@@ -34,8 +34,8 @@ public class RoleWeaponDataSyncUtil {
     }
 
     private static void getBaseData() throws IOException {
-        sync("https://static.nanoka.cc/ww/3.2/character.json","assets/data/base/RoleBaseData.json");
-        sync("https://static.nanoka.cc/ww/3.2/weapon.json","assets/data/base/WeaponBaseData.json");
+        sync("https://static.nanoka.cc/ww/3.3/character.json","assets/data/base/RoleBaseData.json");
+        sync("https://static.nanoka.cc/ww/3.3/weapon.json","assets/data/base/WeaponBaseData.json");
     }
 
     private static void sync(String url,String filepath) throws IOException {

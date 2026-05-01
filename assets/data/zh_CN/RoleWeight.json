@@ -221,6 +221,12 @@
     "aimPath" : "assets/data/zh_CN/weight/default/秧秧.json",
     "md5" : "901c6288b7213c22c53328cdb2cf94d5"
   },
+  "绯雪" : {
+    "name" : "绯雪.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E7%BB%AF%E9%9B%AA.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/绯雪.json",
+    "md5" : "181c78fc900c7e71c7069f2c892c8895"
+  },
   "维里奈" : {
     "name" : "维里奈.json",
     "filePath" : "assets/data/zh_CN/weight/default/%E7%BB%B4%E9%87%8C%E5%A5%88.json",
