@@ -30,12 +30,16 @@ public class RoleWeaponDataSyncUtil {
     private static final String hakush="https://static.nanoka.cc/assets/ww";
     private static final String iconDir="assets/header/";
     public static void main(String[] args) throws IOException {
+        System.setProperty("http.proxyHost", "127.0.0.1");
+        System.setProperty("http.proxyPort", "7890");
+        System.setProperty("https.proxyHost", "127.0.0.1");
+        System.setProperty("https.proxyPort", "7890");
         getBaseData();
     }
 
     private static void getBaseData() throws IOException {
-        sync("https://static.nanoka.cc/ww/3.3/character.json","assets/data/base/RoleBaseData.json");
-        sync("https://static.nanoka.cc/ww/3.3/weapon.json","assets/data/base/WeaponBaseData.json");
+        sync("https://static.nanoka.cc/ww/3.4.1/character.json","assets/data/base/RoleBaseData.json");
+        sync("https://static.nanoka.cc/ww/3.4.1/weapon.json","assets/data/base/WeaponBaseData.json");
     }
 
     private static void sync(String url,String filepath) throws IOException {

@@ -36,7 +36,7 @@ public class RootResourceUtil {
         encodeAllJsonFiles();
     }
     public static void init(Locale locale) throws IOException{
-        String version = "1.3.8";
+        String version = "1.3.9";
         RootResource rootResource = new RootResource();
         Map<String, Resource> map = new LinkedHashMap<>();
         //先把各语言下需要的JSON进行添加上
@@ -120,19 +120,27 @@ public class RootResourceUtil {
     }
 
     private static void encodeJsonsInDir(File dir) {
-        File[] jsons = dir.listFiles();
-        if (jsons != null) {
-            for (File json : jsons) {
-                if (json.getName().equals("Root.json")) {
-                    continue;
-                }
-                String suffix = FileUtil.getSuffix(json);
-                if ("json".equals(suffix)) {
-                    try {
-                        Base64FileUtil.encodeFile(json.toPath());
-                    } catch (IOException e) {
-                        System.err.println("Base64编码失败: " + json.getName());
-                        e.printStackTrace();
+        File[] files = dir.listFiles();
+        if (files != null) {
+            for (File file : files) {
+                if (file.isDirectory()) {
+                    encodeJsonsInDir(file);
+                } else {
+                    if (file.getName().equals("Root.json")) {
+                        continue;
+                    }
+                    String suffix = FileUtil.getSuffix(file);
+                    if ("json".equals(suffix)) {
+                        try {
+                            if (Base64FileUtil.isEncoded(file.toPath())) {
+                                System.out.println("跳过已编码: " + file.getPath());
+                                continue;
+                            }
+                            Base64FileUtil.encodeFile(file.toPath());
+                        } catch (IOException e) {
+                            System.err.println("Base64编码失败: " + file.getName());
+                            e.printStackTrace();
+                        }
                     }
                 }
             }
