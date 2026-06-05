@@ -36,7 +36,7 @@ public class RootResourceUtil {
         encodeAllJsonFiles();
     }
     public static void init(Locale locale) throws IOException{
-        String version = "1.3.7";
+        String version = "1.3.8";
         RootResource rootResource = new RootResource();
         Map<String, Resource> map = new LinkedHashMap<>();
         //先把各语言下需要的JSON进行添加上
