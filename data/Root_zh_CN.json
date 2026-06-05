@@ -1,23 +1,13 @@
-{
-  "version" : "1.3.6",
-  "resources" : {
-    "RoleWeight" : {
-      "name" : "RoleWeight.json",
-      "filePath" : "assets/data/zh_CN/RoleWeight.json",
-      "aimPath" : "assets/data/zh_CN/RoleWeight.json",
-      "md5" : "5ddb46c6cee3115395c86796cb62f912"
-    },
-    "BaseData" : {
-      "name" : "BaseData.json",
-      "filePath" : "assets/data/default/BaseData.json",
-      "aimPath" : "assets/data/default/BaseData.json",
-      "md5" : "ca75569bcc5ed45ed5e111d76504ff42"
-    },
-    "RoleHeader" : {
-      "name" : "RoleHeader.json",
-      "filePath" : "assets/data/default/RoleHeader.json",
-      "aimPath" : "assets/data/default/RoleHeader.json",
-      "md5" : "3364c43a1038b6002406b0d1f8bda60c"
-    }
-  }
-}
+ew0KICAidmVyc2lvbiIgOiAiMS4zLjciLA0KICAicmVzb3VyY2VzIiA6IHsNCiAgICAiUm9sZVdl
+aWdodCIgOiB7DQogICAgICAibmFtZSIgOiAiUm9sZVdlaWdodC5qc29uIiwNCiAgICAgICJmaWxl
+UGF0aCIgOiAiYXNzZXRzL2RhdGEvemhfQ04vUm9sZVdlaWdodC5qc29uIiwNCiAgICAgICJhaW1Q
+YXRoIiA6ICJhc3NldHMvZGF0YS96aF9DTi9Sb2xlV2VpZ2h0Lmpzb24iLA0KICAgICAgIm1kNSIg
+OiAiNmUyZDg0YjkzMzc5OWMxNzljMGQxMGRmMGY4MjRiMjUiDQogICAgfSwNCiAgICAiQmFzZURh
+dGEiIDogew0KICAgICAgIm5hbWUiIDogIkJhc2VEYXRhLmpzb24iLA0KICAgICAgImZpbGVQYXRo
+IiA6ICJhc3NldHMvZGF0YS9kZWZhdWx0L0Jhc2VEYXRhLmpzb24iLA0KICAgICAgImFpbVBhdGgi
+IDogImFzc2V0cy9kYXRhL2RlZmF1bHQvQmFzZURhdGEuanNvbiIsDQogICAgICAibWQ1IiA6ICIz
+MTdhN2I1N2U0YjYwNGI4YzQ5ZmViZjFhMzZhMGMxMSINCiAgICB9LA0KICAgICJSb2xlSGVhZGVy
+IiA6IHsNCiAgICAgICJuYW1lIiA6ICJSb2xlSGVhZGVyLmpzb24iLA0KICAgICAgImZpbGVQYXRo
+IiA6ICJhc3NldHMvZGF0YS9kZWZhdWx0L1JvbGVIZWFkZXIuanNvbiIsDQogICAgICAiYWltUGF0
+aCIgOiAiYXNzZXRzL2RhdGEvZGVmYXVsdC9Sb2xlSGVhZGVyLmpzb24iLA0KICAgICAgIm1kNSIg
+OiAiNjRlOWFhZTJlODc0M2EwYjVlMWFjOGY2MzU1MGQ5MWEiDQogICAgfQ0KICB9DQp9
