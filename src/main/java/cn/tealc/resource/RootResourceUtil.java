@@ -257,9 +257,13 @@ public class RootResourceUtil {
         }
     }
 
-    /** 对 assets/data/ 下所有 JSON 进行 Base64 编码 */
-    private static void encodeRootJsonFiles() throws IOException {
-        File dataDir = new File("assets/data");
+    /** 对 assets/data/ 和 data/ 下所有 JSON 进行 Base64 编码 */
+    private static void encodeRootJsonFiles() {
+        File assetsDataDir = new File("assets/data");
+        if (assetsDataDir.exists()) {
+            encodeJsonsInDir(assetsDataDir);
+        }
+        File dataDir = new File("data");
         if (dataDir.exists()) {
             encodeJsonsInDir(dataDir);
         }
