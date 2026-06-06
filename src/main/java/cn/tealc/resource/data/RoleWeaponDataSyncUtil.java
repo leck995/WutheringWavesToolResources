@@ -1,6 +1,6 @@
-package cn.tealc.game.data;
+package cn.tealc.resource.data;
 
-import cn.tealc.game.model.RoleBaseData;
+import cn.tealc.resource.model.RoleBaseData;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.luciad.imageio.webp.WebPReadParam;

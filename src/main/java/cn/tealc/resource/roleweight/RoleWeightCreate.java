@@ -1,12 +1,10 @@
-package cn.tealc.game.roleweight;
+package cn.tealc.resource.roleweight;
 
-import cn.tealc.game.model.weight.PhantomWeight;
+import cn.tealc.resource.model.weight.PhantomWeight;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.File;
 import java.io.IOException;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.LinkedHashMap;
 import java.util.Map;
 

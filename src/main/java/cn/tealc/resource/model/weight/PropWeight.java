@@ -1,4 +1,4 @@
-package cn.tealc.game.model.weight;
+package cn.tealc.resource.model.weight;
 
 /**
  * @program: WutheringWavesTool

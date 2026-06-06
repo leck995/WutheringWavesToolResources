@@ -1,4 +1,4 @@
-package cn.tealc.game.model;
+package cn.tealc.resource.model;
 
 import java.util.Map;
 

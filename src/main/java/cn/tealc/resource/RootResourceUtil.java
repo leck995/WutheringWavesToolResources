@@ -1,10 +1,10 @@
-package cn.tealc.game;
+package cn.tealc.resource;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.util.URLUtil;
 import cn.hutool.crypto.digest.DigestUtil;
-import cn.tealc.game.model.Resource;
-import cn.tealc.game.model.RootResource;
+import cn.tealc.resource.model.Resource;
+import cn.tealc.resource.model.RootResource;
 import cn.tealc.util.Base64FileUtil;
 import com.fasterxml.jackson.databind.ObjectMapper;
 

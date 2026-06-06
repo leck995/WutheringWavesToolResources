@@ -1,15 +1,13 @@
-package cn.tealc.game.data;
+package cn.tealc.resource.data;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.util.URLUtil;
 import cn.hutool.crypto.digest.DigestUtil;
-import cn.tealc.game.model.Resource;
-import cn.tealc.util.Base64FileUtil;
+import cn.tealc.resource.model.Resource;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.File;
 import java.io.IOException;
-import java.nio.file.Path;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
