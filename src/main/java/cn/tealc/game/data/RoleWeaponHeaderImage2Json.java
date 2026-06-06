@@ -17,6 +17,7 @@ import java.util.Map;
  * @author: Leck
  * @create: 2024-10-22 20:22
  */
+@Deprecated
 public class RoleWeaponHeaderImage2Json {
     private static final String JSON_PATH_TEMPLATE="assets/data/default/RoleHeader.json";
     private static final String AIM_DIR_TEMPLATE="assets/header/%s"; //json中的保存目标路径

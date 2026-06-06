@@ -10,7 +10,8 @@ import java.util.Map;
  */
 public class RootResource {
     private String version;
-    private Map<String,Resource> resources;
+    /** 混合 Map，value 为 Resource 或 Map&lt;String, Resource&gt; */
+    private Map<String, Object> resources;
 
 
     public String getVersion() {
@@ -21,11 +22,11 @@ public class RootResource {
         this.version = version;
     }
 
-    public Map<String, Resource> getResources() {
+    public Map<String, Object> getResources() {
         return resources;
     }
 
-    public void setResources(Map<String, Resource> resources) {
+    public void setResources(Map<String, Object> resources) {
         this.resources = resources;
     }
 }
