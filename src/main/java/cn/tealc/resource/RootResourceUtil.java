@@ -10,7 +10,9 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.LinkedHashMap;
+import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 
@@ -87,7 +89,7 @@ public class RootResourceUtil {
         // 声骸权重文件 → resources.roleWeight
         File weightDir = new File(String.format(WEIGHT_DIR_TEMPLATE, locale));
         if (weightDir.exists() && weightDir.isDirectory()) {
-            Map<String, Resource> roleWeight = new LinkedHashMap<>();
+            List<Resource> roleWeight = new ArrayList<>();
             addWeightFiles(weightDir, roleWeight, locale.toString());
             resources.put("roleWeight", roleWeight);
         }
@@ -95,7 +97,7 @@ public class RootResourceUtil {
         // 基础数据文件 → resources.baseData
         File baseDir = new File(BASE_DATA_DIR);
         if (baseDir.exists() && baseDir.isDirectory()) {
-            Map<String, Resource> baseData = new LinkedHashMap<>();
+            List<Resource> baseData = new ArrayList<>();
             addBaseDataFiles(baseDir, baseData);
             resources.put("baseData", baseData);
         }
@@ -103,7 +105,7 @@ public class RootResourceUtil {
         // 头像资源 → resources.roleHeader
         File headerDir = new File(HEADER_DIR);
         if (headerDir.exists() && headerDir.isDirectory()) {
-            Map<String, Resource> roleHeader = new LinkedHashMap<>();
+            List<Resource> roleHeader = new ArrayList<>();
             addHeaderFiles(headerDir, roleHeader);
             resources.put("roleHeader", roleHeader);
         }
@@ -147,7 +149,7 @@ public class RootResourceUtil {
     }
 
     /** 扫描声骸权重目录（assets/data/{locale}/weight/default/）下的所有 JSON 文件 */
-    private static void addWeightFiles(File dir, Map<String, Resource> map, String locale) {
+    private static void addWeightFiles(File dir, List<Resource> list, String locale) {
         System.out.println(dir.getAbsolutePath());
         File[] jsons = dir.listFiles();
         if (jsons != null) {
@@ -158,18 +160,17 @@ public class RootResourceUtil {
                 String suffix = FileUtil.getSuffix(json);
                 if (suffix != null && suffix.equals("json")) {
                     String md5 = DigestUtil.md5Hex(json);
-                    String name = FileUtil.mainName(json);
                     String filename = URLUtil.encode(json.getName());
                     String filePath = String.format(WEIGHT_AIM_TEMPLATE, locale, filename);
                     String aimPath = String.format(WEIGHT_AIM_TEMPLATE, locale, json.getName());
-                    map.put(name, new Resource(json.getName(), filePath, aimPath, md5));
+                    list.add(new Resource(json.getName(), filePath, aimPath, md5));
                 }
             }
         }
     }
 
     /** 扫描基础数据目录（assets/data/base/）下的所有 JSON 文件（角色/武器） */
-    private static void addBaseDataFiles(File dir, Map<String, Resource> map) {
+    private static void addBaseDataFiles(File dir, List<Resource> list) {
         System.out.println(dir.getAbsolutePath());
         File[] jsons = dir.listFiles();
         if (jsons != null) {
@@ -180,18 +181,17 @@ public class RootResourceUtil {
                 String suffix = FileUtil.getSuffix(json);
                 if (suffix != null && suffix.equals("json")) {
                     String md5 = DigestUtil.md5Hex(json);
-                    String name = FileUtil.mainName(json);
                     String filename = URLUtil.encode(json.getName());
                     String filePath = String.format(BASE_DATA_AIM_TEMPLATE, filename);
                     String aimPath = String.format(BASE_DATA_AIM_TEMPLATE, json.getName());
-                    map.put(name, new Resource(json.getName(), filePath, aimPath, md5));
+                    list.add(new Resource(json.getName(), filePath, aimPath, md5));
                 }
             }
         }
     }
 
     /** 扫描头像目录（assets/header/）下的所有 PNG 文件 */
-    private static void addHeaderFiles(File dir, Map<String, Resource> map) {
+    private static void addHeaderFiles(File dir, List<Resource> list) {
         System.out.println(dir.getAbsolutePath());
         File[] files = dir.listFiles();
         if (files != null) {
@@ -202,11 +202,10 @@ public class RootResourceUtil {
                 String suffix = FileUtil.getSuffix(file);
                 if (suffix != null && suffix.equals("png")) {
                     String md5 = DigestUtil.md5Hex(file);
-                    String name = FileUtil.mainName(file);
                     String filename = URLUtil.encode(file.getName());
                     String filePath = String.format(HEADER_AIM_TEMPLATE, filename);
                     String aimPath = String.format(HEADER_AIM_TEMPLATE, file.getName());
-                    map.put(name, new Resource(file.getName(), filePath, aimPath, md5));
+                    list.add(new Resource(file.getName(), filePath, aimPath, md5));
                 }
             }
         }
